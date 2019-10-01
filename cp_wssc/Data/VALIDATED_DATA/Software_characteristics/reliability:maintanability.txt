@@ -1,0 +1,186 @@
+Robust IO tools for loading data.
+Is totally reliable and consistently perform the required software functions.
+Provides internal system controls to ensure accuracy, integrity and completeness eg data input and accuracy checks, validation, authorisation.
+Maintains full records eg to: trace any transaction item, provide a full audit trail, provide a full record of all balances and transactions.
+Supports manual control procedures eg control reports.
+Provides system security via multiple, configurable passwords  / levels of security.
+Provides backup and restore facilities for programs and data.
+Supports your organisation, by running over your (chosen) network, database and hardware platform(s).
+A curated list of Site Reliability and Production Engineering resources.
+A lightweight powerful flow control component enabling reliability and monitoring for microservices.
+Hacker News client with a focus on reliability and robustness.
+Fundamentally, it's what happens when you ask a software engineer to design an operations function.
+The Irreproducibility Of Bugs In Large-Scale Production Systems.
+track down the problem, reproduce the bug, test and deploy the fix" cycle simply does not work in most large and complex production systems. 
+The Site Reliability Workbook is the hands-on companion to the bestselling Site Reliability Engineering book and uses concrete examples to show how to put SRE principles and practices to work. 
+Sysadmins are then tasked with running the service and responding to events and updates as they occur. As the system grows in complexity and traffic volume, generating a corresponding increase in events and updates, the sysadmin team grows to absorb the additional work.This file is part of Exploit Reliability Testing System.
+Exploit Reliability Testing System is used to test reliability of hitting EIP=0x41414141. 
+This system is aimed at finding how much an exploit is reliable.
+Once I started looking into the vulnerability, I realized that this vulnerability is unreliable due to the fact that there is a very small window between free and use of the freed object.
+Software testing is a process, to evaluate the functionality of a software application with an intent to find whether the developed software met the specified requirements or not and to identify the defects to ensure that the product is defect free in order to produce the quality product.
+Checking that system responds correctly to all kinds of inputs.
+As the number of possible tests for even simple software components is practically infinite, all software testing uses some strategy to select tests that are feasible for the available time and resources.
+Not all software defects are caused by coding errors. 
+One common source of expensive defects is requirement gaps, i.e., unrecognized requirements that result in errors of omission by the program designer.
+A fundamental problem with software testing is that testing under all combinations of inputs and preconditions (initial state) is not feasible, even with a simple product.
+A study conducted by NIST in 2002 reports that software bugs cost the U.S. economy $59.5 billion annually. More than a third of this cost could be avoided, if better software testing was performed.
+This repository is for the Reliability Test System Grid Modernization Lab Consortium (RTS-GMLC) which is an updated version of the RTS-96 test system.
+Cassandra is a distributed storage system for managing structured data while providing reliability at a massive scale.
+CrashMonkey: tools for testing file-system reliability.
+The FSCQ bug would result in fdatasync not persisting data correctly to the file system.
+A software bug is an error, flaw, failure or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways. 
+The process of finding and fixing bugs is termed "debugging" and often uses formal techniques or tools to pinpoint bugs, and since the 1950s, some computer systems have been designed to also deter, detect or auto-correct various computer bugs during operations.
+Most bugs arise from mistakes and errors made in either a program's source code or its design, or in components and operating systems used by such programs. 
+A few are caused by compilers producing incorrect code. 
+A program that contains a large number of bugs, and/or bugs that seriously interfere with its functionality, is said to be buggy (defective). 
+Bugs can trigger errors that may have ripple effects.
+It may have originally been used in hardware engineering to describe mechanical malfunctions.
+A collection of samples demonstrating different frameworks and techniques for automated testing.
+Many of these samples use the AndroidX Test Library.
+Simple and complete React DOM testing utilities that encourage good testing practices.
+Please file an issue for bugs, missing documentation, or unexpected behavior.
+A workshop for learning how to test JavaScript applications. 
+This repository is a merger of the formerly separate Google Test and Google Mock projects. These were so closely related that it makes sense to maintain and release them together.
+Automated test-runner and Graphical User Interface with powerful features for Windows and Linux platforms.
+A collection of awesome penetration testing resources.
+An open source network stress tool for Windows.
+JavaScript Testing utilities for React.
+Enzyme is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output.
+Welcome to the wonderful world of automated testing, specifically unit testing. 
+The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
+iOS in-app bug reporting for developers and testers, with annotated screenshots and the console log.
+An implementation of the simple bug prediction heuristic outlined by the Google Engineering team.
+The Spot Bugs plugin for security audits of Java web applications and Android applications. 
+Testing if an element exists.
+Improvements and bug fixes related to the taint analysis.
+Improvement to vulnerability descriptions.
+Javascript error handling tool for Bugsnag. Monitor and report JavaScript bugs & errors.
+This repo is used to track issues and bugs with Celeste.
+Monitor and report execution errors and malfunctionings.
+Bugsnag error monitoring & reporting software for rails, sinatra, rack and ruby.
+It is an instance of the xUnit architecture for unit testing frameworks.
+Robolectric is the industry-standard unit testing framework for Android. 
+With Robolectric, your tests run in a simulated Android environment inside a JVM, without the overhead of an emulator.
+Welcome to the wonderful world of automated testing, specifically unit testing.
+As you write your tests, bugs in the code may be revealed, feel free to correct and refactor the source code to satisfy your tests.
+If you believe there is a bug, open an issue.
+An easy-to-use JavaScript Unit Testing framework.
+Welcome to the wonderful world of automated testing, specifically unit testing. 
+A landing page to make finding relevant bugs easier for new Mozilla contributors.
+Is an effort to help new Mozilla contributors make sense of the mass of bugs that are recommended for newcomers. 
+By performing searches for aggregated components based on less granular areas of interest, smaller, more focused lists of relevant bugs can be shown, making the experience more pleasant for everybody involved.
+Bugsnag error monitoring and crash reporting tool for PHP apps.
+Robust is an Android HotFix solution with high compatibility and high stability.
+Robust can fix bugs immediately without a reboot.
+Support to fix bugs in constructors currently is under testing.
+A professional front-end template for building fast, robust, and adaptable web apps or sites.
+Protection against any stray console statements causing JavaScript errors in older browsers.
+Prism is a lightweight, robust, elegant syntax highlighting library. 
+Python library for adversarial attacks and defenses (evasion, poisoning) for neural networks with multiple framework support.
+The library comes with a basic set of unit tests. 
+To check your install, you can run all the unit tests by calling the test script in the install folder.
+Fast and robust Emacs setup.
+Send error messages to the original developer if it’s third party package’s problem.
+Bug report should include details (OS, Emacs version …).
+Pug – robust, elegant, feature rich template engine for Node.js.
+Robust principal component analysis.
+Robust evasion attacks against neural network to find adversarial examples.
+An easy-to-use JavaScript Unit Testing framework.
+Code project corresponding to a serials of tutorial posts for android unit testing.
+Software reliability is the probability that a particular software will not cause the failure of a system for a specified time under specified conditions.
+Evaluation of how reliably a software system will perform when functional.
+The probability of certain software to maintain the normal operation for a determined time t.
+It can be an important factor affecting system reliability.
+Different from hardware reliability since it doesn’t age, wear out, rust, deform or crack!
+Software usually stays in the same condition as when it was created and unless there are changes caused by hardware - like changes in the storage content or data path – we could assume software doesn’t really “break”.
+Optimistically, we might think that once it has run correctly, it would do so forever!
+British destroyer Sheffield was sunk because the radar system wrongly identified an incoming missile as friendly!
+Fixing problems may not necessarily make the software more reliable. On the contrary, new Software Reliability is an important to attribute of software quality, together with functionality, usability, performance, serviceability, capability, installability, maintainability, and documentation.
+Software Reliability is hard to achieve, as the complexity of software tends to be high:serious problems may arise.
+Many different reasons for software failure such as errors, abiguities, misinterpretation of specifications, inaqdequate testing or unexpected usages.
+Full or multiple levels of software support and maintenance
+A Service Level Agreement with escalation procedures
+Support for your organisation, in your geographical location
+Web based support portal eg with online fault / query submission, download fixes / product information
+Help desk telephone support
+Responding to queries / faults within the quoted time scales
+Providing fixes to repair faults
+Regularly (annually) releasing functional / legislative software upgrade(s)
+Easy upgrade paths
+Provision for Software Escrow
+To test seaborn, run make test in the source directory.
+This will exercise both the unit tests and docstring examples (using pytest).
+Please join CaffeOnSpark user group for discussions and questions.
+In fast-paced modern development teams, you should aim to build software that is easy to transfer between development teams and easy to adapt to other purposes. 
+Software is better quality if you can adapt it to changing user requirements quickly and cost-efficiently.
+Lines of code—the number of lines of code directly affects software maintainability because more code means less maintainability.
+High-quality software is as concise as possible given its requirements.
+Maintainability index—this metric is a compound metric that includes cyclomatic complexity, total lines of code, and comments ratio (ratio of code to comments) to measure maintainability.
+You want to write maintainable tests for your Web UI.
+Software maintainability is defined as the degree to which an application is understood, repaired, or enhanced. 
+Software maintainability is important because it is approximately 75% of the cost related to a project.
+Understanding software maintainability allows organizations to identify improvement areas as well as determine the value supplied by current applications or during development changes.
+Software maintainability requires more developer effort than any other phase of the development life cycle. 
+A programming team will perform four types of maintenance on new deployments or enhancements: corrective, adaptive, perfective, and preventative. 
+These activities will take additional time to complete if the code is not easy to manage in the first place. An application with these qualities will require increased programming effort: Poor Code Quality, Source Code Defects, Undetected Vulnerabilities, Excessive Technical Complexity, Large Systems, Poorly Documented Systems, Excessive Dead Code.
+Maintainability means fixing, updating, servicing and to modify the system or update the software for performance improvements or for the correction of faults. 
+Maintainability also includes the addition of new functionality or the adaptation of software to meet new requirements for the customer needs.
+Software maintainability is the degree of an application to repaired or enhanced it. During the system development life cycle (SDLC) this phase requires more development effort than any other phase. 
+Approximately 75 percent of the cost is related to software maintenance. 
+Maintainability increases the reliability, efficiency or safety of the software. 
+It is also used to make future maintenance easier. 
+It is used to increase the lifetime of the software. 
+Maintainability repair or replace the faulty components and make the software even better as compared to the previous condition of the software.
+Quality software is reasonably bug or defect free, delivered on time and within budget, meets requirements and/or expectations, and is maintainable.
+Software bugs are of many types. A bug is a bug no matter what. But sometimes, it is important to understand the nature, its implications and the cause to process it better.
+A software bug is an error, flaw, failure, or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways.
+Software has a functionality error if something that you expect it to do is hard, awkward, confusing, or impossible.
+Anything that the end user needs to know in order to use the software should be made available on screen.
+Missing command errors: This happens to occur when an expected command is missing.
+Syntactic error: Syntactic errors are misspelled words or grammatically incorrect sentences and are very evident while testing software GUI.
+Any errors that occur while the user is interacting with the software needs to be handled in a clear and meaningful manner. If not, it is called as an Error Handling Error.
+In 1999, NASA lost its Mars climate orbiter because one of the subcontractors NASA employed had used English units instead of the intended metric system, which caused the orbiter’s thrusters to work incorrectly.
+Due to this bug, the orbiter crashed almost immediately when it arrived at Mars.
+The control flow of a software describes what it will do next and on what condition.
+An integration test checks that components in your application operate with each other.
+A unit test checks a small component in your application.
+If the result from sum() is incorrect, this will fail with an AssertionError and the message "Should be 6". 
+In this tutorial, you will be using unittest test cases and the unittest test runner. 
+The principles of unittest are easily portable to other frameworks.
+A testing unit should focus on one tiny bit of functionality and prove it correct.
+Each test unit must be fully independent. 
+Each test must be able to run alone, and also within the test suite, regardless of the order that they are called. 
+Try hard to make tests that run fast.
+Always run the full test suite before a coding session, and run it again after. 
+This will give you more confidence that you did not break anything in the rest of the code.
+They are known for keeping their software backward compatible. 
+They go to great strength to guarantee that applications still work on newer versions of their operating system, even when they have to work around bugs in the original software application.
+One of the great aspects when your software goes public is that you get more feedback. 
+If something is missing or not working as expected, your customers will tell you faster than you can fix or implement it. 
+Some feature requests or bug reports might be surprising, something you never thought of when you developed your software.
+Software maintenance in software engineering is the modification of a software product after delivery to correct faults, to improve performance or other attributes.
+This standard describes an iterative process for managing and executing software maintenance activities. 
+Software maintenance is a part of Software Development Life Cycle. 
+Its main purpose is to modify and update software application after delivery to correct faults and to improve performance. 
+Software is a model of the real world. When the real world changes, the software requires alteration wherever possible. 
+- Fix bug in Disruptor DSL where some consumers wouldn\'t be included in the gating sequences.
+We will continue to accept bug fixes, however.
+Your code will be easier to change, unit test and reuse in other contexts.
+testLoggingEvents: unit test events to be logged, separated by comma.
+Thanks to the administrator for coming up with a fix for an important bug.
+Write a unit test to show the issue!
+StorIO has unit and integration tests.
+Fix a bug in prepared statements
+Various bug fixes released with last version.
+Furthermore, Feign makes it easy to unit test your conversions knowing this.
+Recognizing these realities and deficiencies, we are placing Ribbon in maintenance mode.
+If there is a compilation error before or during `mix test`, it will be shown as a test failure.
+v0.3.3 - Bug fixes regarding output and error handling.
+Hence why I didn't write any unit test for this case.
+A bug in Xcode causes it to ignore the user selection.
+Fixed bug when page is too small to scroll.
+v0.0.6 - Added unit testing.
+This project integrates a combination of unit tests, functional test and code analysis tools.
+Fix bug of DateSupport.count error.
+he probability to randomly drop each pose segment during training, so the network can get more robust to missing poses at inference time.
+Use 'make test' command to run all unit and acceptance tests.

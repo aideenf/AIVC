@@ -1,0 +1,4 @@
+text	confidence_value	confidence_level	data_provenance
+please, classify this a green world	0.019714796915650368	Low	Semantic Scholar
+just one random example	0.05723040550947189	Medium	Github
+This would be talking about efficiency in industrial terms	0.7195271849632263	High	Google
