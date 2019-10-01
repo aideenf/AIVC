@@ -1,0 +1,546 @@
+Here are just a few of the things that pandas does well:
+Easy handling of missing data (represented as NaN) in floating point as well as non-floating point data
+Size mutability: columns can be inserted and deleted from DataFrame and higher dimensional objects
+Automatic and explicit data alignment: objects can be explicitly aligned to a set of labels, or the user can simply ignore the labels and let Series, DataFrame, etc. automatically align the data for you in computations
+Powerful, flexible group by functionality to perform split-apply-combine operations on data sets, for both aggregating and transforming data
+Make it easy to convert ragged, differently-indexed data in other Python and NumPy data structures into DataFrame objects
+Intelligent label-based slicing, fancy indexing, and subsetting of large data sets
+Intuitive merging and joining data sets
+Flexible reshaping and pivoting of data sets
+Hierarchical labeling of axes (possible to have multiple labels per tick)
+Robust IO tools for loading data from flat files (CSV and delimited), Excel files, databases, and saving/loading data from the ultrafast HDF5 format
+Time series-specific functionality: date range generation and frequency conversion, moving window statistics, moving window linear regressions, date shifting and lagging, etc.
+Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+CaffeOnSpark brings deep learning to Hadoop and Spark clusters. By combining salient features from deep learning framework Caffe and big-data frameworks Apache Spark and Apache Hadoop, CaffeOnSpark enables distributed deep learning on a cluster of GPU and CPU servers.
+As a distributed extension of Caffe, CaffeOnSpark supports neural network model training, testing, and feature extraction. Caffe users can now perform distributed learning using their existing LMDB data files and minorly adjusted network configuration (as illustrated).
+CaffeOnSpark is a Spark package for deep learning. It is complementary to non-deep learning libraries MLlib and Spark SQL. CaffeOnSpark's Scala API provides Spark applications with an easy mechanism to invoke deep learning (see sample) over distributed datasets.
+CaffeOnSpark was developed by Yahoo for large-scale distributed deep learning on our Hadoop clusters in Yahoo's private cloud. It's been in use by Yahoo for image search, content classification and several other use cases.
+Luigi is a Python (2.7, 3.6, 3.7 tested) package that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
+The purpose of Luigi is to address all the plumbing typically associated with long-running batch processes. You want to chain many tasks, automate them, and failures will happen. These tasks can be anything, but are typically long running things like Hadoop jobs, dumping data to/from databases, running machine learning algorithms, or anything else.
+You can build pretty much any task you want, but Luigi also comes with a toolbox of several common task templates that you use. It includes support for running Python mapreduce jobs in Hadoop, as well as Hive, and Pig, jobs. It also comes with file system abstractions for HDFS, and local files that ensures all file system operations are atomic. This is important because it means your data pipeline will not crash in a state containing partial data.
+It enables model training, test and feature extraction directly on Hadoop datasets stored in HDFS on Hadoop clusters.
+It turns your Hadoop or Spark cluster(s) into a powerful platform for deep learning, without the need to set up a new dedicated cluster for deep learning separately.
+Server-to-server direct communication (Ethernet or InfiniBand) achieves faster learning and eliminates scalability bottleneck.
+Caffe users' existing datasets (e.g. LMDB) and configurations could be applied for distributed learning without any conversion needed.
+High-level API empowers Spark applications to easily conduct deep learning.
+Incremental learning is supported to leverage previously trained models or snapshots.
+Additional data formats and network interfaces could be easily added.
+It can be easily deployed on public cloud (ex. AWS EC2) or a private cloud.
+Provides a system for simulating, comparing, testing, and benchmarking Spark applications and Spark itself.
+Suites of performance tests for Spark, PySpark, Spark Streaming, and MLlib.
+Apache Flink is an open source stream processing framework with powerful stream- and batch-processing capabilities.
+Features
+A streaming-first runtime that supports both batch processing and data streaming programs
+Elegant and fluent APIs in Java and Scala
+A runtime that supports very high throughput and low event latency at the same time
+Support for event time and out-of-order processing in the DataStream API, based on the Dataflow Model
+Flexible windowing (time, count, sessions, custom triggers) across different time semantics (event time, processing time)
+Fault-tolerance with exactly-once processing guarantees
+Natural back-pressure in streaming programs
+Libraries for Graph processing (batch), Machine Learning (batch), and Complex Event Processing (streaming)
+Built-in support for iterative programs (BSP) in the DataSet (batch) API
+Custom memory management for efficient and robust switching between in-memory and out-of-core data processing algorithms
+Compatibility layers for Apache Hadoop MapReduce
+Integration with YARN, HDFS, HBase, and other components of the Apache Hadoop ecosystem
+We support these features, amongst others:
+Distributed Closure Execution
+MapReduce & ForkJoin Processing
+Continuous Mapping
+Clustered Executor Service
+Per-Node Shared State
+Collocation of Compute and Data
+Load Balancing
+Fault Tolerance
+Job State Checkpointing
+Job Scheduling
+CXF includes a broad feature set, but it is primarily focused on the following areas:
+Web Services Standards Support: CXF supports a variety of web service standards including SOAP, the Basic Profile, WSDL, WS-Addressing, WS-Policy, WS-ReliableMessaging, WS-Security, WS-SecurityPolicy, WS-SecureConversation, and WS-Trust.
+Frontends: CXF supports a variety of "frontend" programming models. CXF implements the JAX-WS APIs. It also includes a "simple frontend" which allows creation of clients and endpoints without annotations. CXF supports both contract first development with WSDL and code first development starting from Java. There is also a JAX-RS frontend for providing REST support.
+Ease of use: CXF is designed to be intuitive and easy to use. There are simple APIs to quickly build code-first services, Maven plug-ins to make tooling integration easy, JAX-WS API support, Spring 2.x XML support to make configuration a snap, and much more.
+Binary and Legacy Protocol Support: CXF has been designed to provide a pluggable architecture that supports not only XML but also non-XML type bindings, such as JSON and CORBA, in combination with any type of transport.
+Oozie is an extensible, scalable and reliable system to define, manage, schedule, and execute complex Hadoop workloads via web services. More specifically, this includes:
+XML-based declarative framework to specify a job or a complex workflow of dependent jobs.
+Support different types of job such as Hadoop Map-Reduce, Pipe, Streaming, Pig, Hive and custom java applications.
+Workflow scheduling based on frequency and/or data availability.
+Monitoring capability, automatic retry and failure handing of jobs.
+Extensible and pluggable architecture to allow arbitrary grid programming paradigms.
+Authentication, authorization, and capacity-aware load throttling to allow multi-tenant software as a service.
+Contributions
+We welcome contributions of all kinds, for details of how you can help
+https://github.com/apache/camel/blob/master/CONTRIBUTING.md
+Please refer to the website for details of finding the issue tracker, email lists, IRC and Gitter chat
+Built-in review tools make code review an essential part of your team’s process.
+Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
+Flask offers suggestions, but doesn't enforce any dependencies or project layout. It is up to the developer to choose the tools and libraries they want to use. There are many extensions provided by the community that make adding new functionality easy.
+It has all the mapping features most developers ever need.
+Main Features
+Here are just a few of the things that pandas does well:
+Easy handling of missing data (represented as NaN) in floating point as well as non-floating point data
+Size mutability: columns can be inserted and deleted from DataFrame and higher dimensional objects
+Automatic and explicit data alignment: objects can be explicitly aligned to a set of labels, or the user can simply ignore the labels and let Series, DataFrame, etc. automatically align the data for you in computations
+Powerful, flexible group by functionality to perform split-apply-combine operations on data sets, for both aggregating and transforming data
+Make it easy to convert ragged, differently-indexed data in other Python and NumPy data structures into DataFrame objects
+Intelligent label-based slicing, fancy indexing, and subsetting of large data sets
+Intuitive merging and joining data sets
+Flexible reshaping and pivoting of data sets
+Hierarchical labeling of axes (possible to have multiple labels per tick)
+Robust IO tools for loading data from flat files (CSV and delimited), Excel files, databases, and saving/loading data from the ultrafast HDF5 format
+Time series-specific functionality: date range generation and frequency conversion, moving window statistics, moving window linear regressions, date shifting and lagging, etc.
+Zappa makes it super easy to build and deploy server-less, event-driven Python applications (including, but not limited to, WSGI web apps) on AWS Lambda + API Gateway. 
+Dash ties modern UI elements like dropdowns, sliders, and graphs directly to your analytical python code. Read our tutorial proudly crafted ❤️ by dash itself.
+Pythia is a modular framework for vision and language multimodal research. Built on top of PyTorch, it features:
+
+Model Zoo: Reference implementations for state-of-the-art vision and language model including LoRRA (SoTA on VQA and TextVQA), Pythia model (VQA 2018 challenge winner) and BAN.
+Multi-Tasking: Support for multi-tasking which allows training on multiple dataset together.
+Datasets: Includes support for various datasets built-in including VQA, VizWiz, TextVQA and VisualDialog.
+Modules: Provides implementations for many commonly used layers in vision and language domain
+Distributed: Support for distributed training based on DataParallel as well as DistributedDataParallel.
+Unopinionated: Unopinionated about the dataset and model implementations built on top of it.
+Customization: Custom losses, metrics, scheduling, optimizers, tensorboard; suits all your custom needs.
+You can use Pythia to bootstrap for your next vision and language multimodal research project.
+Features
+Find faces in pictures.
+Find all the faces that appear in a picture:
+Find and manipulate facial features in pictures
+Get the locations and outlines of each person's eyes, nose, mouth and chin.
+Identify faces in pictures
+Recognize who appears in each photo.
+User friendliness. Keras is an API designed for human beings, not machines. It puts user experience front and center. Keras follows best practices for reducing cognitive load: it offers consistent & simple APIs, it minimizes the number of user actions required for common use cases, and it provides clear and actionable feedback upon user error.
+Modularity. A model is understood as a sequence or a graph of standalone, fully configurable modules that can be plugged together with as few restrictions as possible. In particular, neural layers, cost functions, optimizers, initialization schemes, activation functions and regularization schemes are all standalone modules that you can combine to create new models.
+Easy extensibility. New modules are simple to add (as new classes and functions), and existing modules provide ample examples. To be able to easily create new modules allows for total expressiveness, making Keras suitable for advanced research.
+Work with Python. No separate models configuration files in a declarative format. Models are described in Python code, which is compact, easier to debug, and allows for ease of extensibility.
+youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter, version 2.6, 2.7, or 3.2+, and it is not platform specific. It should work on your Unix box, on Windows or on macOS. It is released to the public domain, which means you can modify it, redistribute it or use it however you like.
+The system is built using a modular approach so support for other devices or actions can be implemented easily.
+See also the section on architecture and the section on creating your own components.
+It is able to track and control all devices at home and offer a platform for automating control.
+Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+Sleek, intuitive, and powerful front-end framework for faster and easier web development. 
+AngularJS lets you write client-side web applications as if you had a smarter browser. 
+It lets you use good old HTML (or HAML, Jade/Pug and friends!) as your template language and lets you extend HTML’s syntax to express your application’s components clearly and succinctly. 
+It automatically synchronizes data from your UI (view) with your JavaScript objects (model) through 2-way data binding. 
+To help you structure your application better and make it easy to test, AngularJS teaches the browser how to do dependency injection and inversion of control.
+It also helps with server-side communication, taming async callbacks with promises and deferred objects, and it makes client-side navigation and deep linking with hashbang urls or HTML5 pushState a piece of cake. Best of all? It makes development fun!
+D3 helps you bring data to life using SVG, Canvas and HTML. 
+D3 combines powerful visualization and interaction techniques with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the right visual interface for your data.
+auto_ml is designed for production. Here's an example that includes serializing and loading the trained model, then getting predictions on single dictionaries, roughly the process you'd likely follow to deploy the trained model.
+This project provides a web-interface, as well as a programmatic-api for various machine learning algorithms.
+XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. 
+The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.
+It implements machine learning algorithms under the Gradient Boosting framework.
+An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. 
+A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
+Lightweight, Python library for fast and reproducible experimentation :microscope:.
+Curated set of transformers that make your work with steppy faster and more effective :telescope:.
+Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit.
+[UNMAINTAINED] Automated machine learning for analytics & production.
+Web-interface + rest API for classification and regression (https://jeff1evesque.github.io/machine-learning.docs).
+Web-interface + rest API for classification and regression (https://jeff1evesque.github.io/machine-learning.docs).
+Web-interface + rest API for classification and regression (https://jeff1evesque.github.io/machine-learning.docs).
+Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow.
+aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  .
+A set of tools for creating and testing machine learning features, with a scikit-learn compatible API.
+Serverless proxy for Spark cluster.
+Metric learning algorithms in Python.
+simple artificial intelligence utilities.
+Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
+Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
+Warning: This project does not have any current developer. See bellow.
+Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+Deep Learning for humans.
+An Open Source Machine Learning Framework for Everyone.
+Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit.
+Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+Lightweight library to build and train neural networks in Theano.
+GPU-Accelerated Deep Learning Library in Python.
+A flexible framework of neural networks for deep learning.
+Topic Modelling for Humans.
+A Topic Modeling toolbox
+Fast, flexible and fun neural networks.
+Crab is a ﬂexible, fast recommender engine for Python that integrates classic information ﬁltering recommendation algorithms in the world of scientiﬁc Python packages (numpy, scipy, matplotlib).
+A python library for implementing a recommender system.
+Code repository for Think Bayes.
+Image-to-Image Translation with Conditional Adversarial Networks (Pix2pix) implementation in keras.
+Restricted Boltzmann Machines in Python.
+Bolt Online Learning Toolbox.
+Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree.
+Machine learning for NeuroImaging in Python.
+Easy and comprehensive assessment of predictive power, with support for neuroimaging features.
+Caffe: a fast open framework for deep learning.
+Breze with all the stuff.
+SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.
+Neurolab is a simple and powerful Neural Network Library for Python.
+Spearmint Bayesian optimization codebase.
+Fast, flexible and easy to use probabilistic modelling in Python.
+python-timbl, originally developed by Sander Canisius, is a Python extension module wrapping the full TiMBL C++ programming interface. With this module, all functionality exposed through the C++ interface is also available to Python scripts. Being able to access the API from Python greatly facilitates prototyping TiMBL-based applications.
+Distributed Evolutionary Algorithms in Python.
+Deep learning in Python.
+A library of extension and helper modules for Python's data analysis and machine learning libraries.
+Intel® Nervana™ reference deep learning framework committed to best performance on all hardware.
+Easy benchmarking of all publicly accessible implementations of convnets.
+Code samples for my book "Neural Networks and Deep Learning".
+Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk.
+A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+Python Library for Probabilistic Graphical Models.
+Deep Learning GPU Training System.
+Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more.
+MILK: Machine Learning Toolkit.
+Deep learning library featuring a higher-level API for TensorFlow.
+Machine Learning toolbox for Humans.
+It includes original implementation from the paper and multithreaded one written in C++, along with various language-specific wrappers.
+Python package for Bayesian Machine Learning with scikit-learn API.
+Simple machine learning library.
+A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python.
+Tensors and Dynamic neural networks in Python  with strong GPU acceleration.
+Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.
+Implementation of Restricted Boltzmann Machine (RBM) and its variants in Tensorflow.
+A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
+Library for machine learning stacking generalization.
+A modular active learning framework for Python3.
+🔥 Cogitare - A Modern, Fast, and Modular Deep Learning and Machine Learning framework for Python .
+Parris, the automated infrastructure setup tool for machine learning algorithms.
+Relevance Vector Machine (RVM) Based Machine Learning Library.
+Turi Create simplifies the development of custom machine learning models.
+High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface.
+ML-Ensemble – high performance ensemble learning.
+Visualizer for deep learning and machine learning models.
+Machine Learning Prediction Server on AWS Lambda(Zappa).
+Gorgonia is a library that helps facilitate machine learning in Go.
+Best Practices on Recommendation Systems.
+StellarGraph - Machine Learning on Graphs.
+🍱 An open-source platform for building, shipping, and running machine learning services.
+MiraiML: asynchronous, autonomous and continuous Machine Learning in Python.
+Machine learning, in numpy.
+:loop: Online machine learning in Python.
+A collective list of free APIs for use in software and web development.
+Models and examples built with TensorFlow.
+The Python micro framework for building web applications.
+Magnificent app which corrects your previous console command.
+All Algorithms implemented in Python.
+The Web framework for perfectionists with deadlines.
+Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp.
+Deep Learning for humans.
+A curated list of awesome Machine Learning frameworks, libraries and software.
+Python HTTP Requests for Humans™ ✨🍰✨.
+scikit-learn: machine learning in Python.
+Scrapy, a fast high-level web crawling & scraping framework for Python.
+:arrow_double_down: Dumb downloader that scrapes the web.
+The world's simplest facial recognition api for Python and the command line.
+Open source home automation that puts local control and privacy first.
+Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!.
+The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++.
+Sentry is cross-platform application monitoring, with a focus on error reporting.
+A collection of design patterns/idioms in Python.
+FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
+Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
+A toolkit for developing and comparing reinforcement learning algorithms.
+Define and run multi-container applications with Docker.
+TensorFlow code and pre-trained models for BERT.
+An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+Minimal examples of data structures and algorithms in Python.
+A collection of surprising Python snippets and lesser-known features.
+Monospaced font family for user interface and coding environments.
+Automatic SQL injection and database takeover tool.
+Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
+Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython.
+Helps you into setting up a personal IPSEC VPN in the cloud.
+Magenta: Music and Art Generation with Machine Intelligence.
+A Powerful Spider(Web Crawler) System in Python.
+Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category. .
+Distributed Task Queue (development branch).
+Async Python 3.6+ web server/framework | Build fast. Run fast.
+PyTorch Tutorial for Deep Learning Researchers.
+Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. .
+Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
+Distributed Task Queue (development branch).
+Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow.
+Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from data mining to deep learning.
+Simple, Pythonic remote execution and deployment.
+Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino.
+Automated nginx proxy for Docker containers using docker-gen.
+A list of awesome applications, software, tools and other materials for Linux distros. .
+Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
+Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+A Fast, Extensible Progress Bar for Python and CLI.
+pix2code: Generating Code from a Graphical User Interface Screenshot.
+Scalable user load testing tool written in Python.
+Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here.
+Zulip server - powerful open source team chat.
+A cd command that learns - easily navigate directories from the command line.
+Style transfer, deep learning, feature transform.
+Interactive Web Plotting for Python.
+matplotlib: plotting with Python.
+Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS.
+Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
+Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
+A very simple framework for state-of-the-art Natural Language Processing (NLP).
+Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+Image augmentation for machine learning experiments.
+Nginx configuration static analyzer.
+Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
+Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). 
+Fuzzy String Matching in Python.
+The easy-to-use and developer-friendly CMS.
+Tools for BPF-based Linux IO analysis, networking, monitoring, and more.
+The minimalist web API framework for building reliable, high-performance REST APIs, microservices, proxies, and app backends in Python.
+Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
+An open-source NLP research library, built on PyTorch.
+The friendly PIL fork (Python Imaging Library).
+Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
+A very simple framework for state-of-the-art Natural Language Processing (NLP).
+bottle.py is a fast and simple micro-framework for python web-applications.
+Optional static typing for Python 3 and 2 (PEP 484).
+Python job scheduling for humans.
+Statistical data visualization using matplotlib.
+A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
+Image augmentation for machine learning experiments.
+Ultra fast asyncio event loop.
+A computer algebra system written in pure Python.
+Easy & Flexible Alerting With ElasticSearch.
+Write and evaluate mathematical equations involving multidimensional arrays easily.
+It helps a lot in figuring out where things might go wrong.
+## Differentiation ##  Gorgonia performs both symbolic and automatic differentiation.
+Added improved input validation for group convolution.
+Updated `LogSoftMax` to use more numerically stable implementation.
+Added validation for padding channel axis in convolution.
+Added proper initialization for ONNX TypeStrToProtoMap.
+Updated CNTK's ONNX `BatchNormalization` op export/import to latest spec.
+Added support for exporting `alpha` attribute in `ELU` ONNX op.
+Major overhaul to `Convolution` and `Pooling` export.
+Major overhaul to `ConvolutionTranspose` export and import.
+Added support for CNTK's `StopGradient` as a no-op.
+Added ONNX support for TopK op.
+What this project does  Automates the whole machine learning process, making it super easy to use for both analytics, and getting real-time predictions in production.
+The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.
+Compalex is a lightweight script to compare two database schemas.
+It's like a safe, friendly, and super-powered "database client" (eg: PHP-my-Admin or Sequel Pro).
+Portability and Transparency Directus is not a black-box system.
+Choose your auth providers, storage adapters, content interfaces, data presentation, and more.
+It supports MySQL, MS SQL Server and PostgreSQL.
+Provides JSON, XML, and HTML.
+Supports most popular databases.
+Directus is an open-source suite of software that provides an instant API wrapper for SQL databases and an intuitive Admin App for non-technical users to manage that content.
+Update passwords Easily.
+Make backups of your DBs.
+Backend: establishes and holds a single Database instance connection.
+How this solves it Database Web API acts as a filter, sitting between a database and the browser, allowing users to interact with that database as if it was a native API.
+It can be used with React, Angular o vanilla JS.
+Goodreads Api is used for book description, review, rating and book cover.
+OLEDB Simple and compact class library for working with the MS OLE Database.
+Since it is very difficult to maintain a record of data items and  this information manually or in file system, we are creating a database for the complete management of resources and tasks of metro system.
+It is an open-source tool, separate from the Apps Script platform, that lets you develop and manage Apps Script projects from your terminal rather than the Apps Script editor.
+Features - This library manages everything by itself opening and closing connections, commits, cursors...
+Inserts values into a table by the following syntax ->  .
+Deletes a row or rows where condition is true.
+Creates a Database.
+Drops tables in parameters.
+Drop databases in parameters.
+Creates a connection with a custom JDBC.
+Creates a connection with the given URI.
+It uses Django and MySQL to support Backend.
+Drops database if it exists.
+Method created a new relationship for two nodes.
+Creates a property for given relationship.
+Enables truly deterministic builds, while easily specifying only what you want.
+Open Source Fast Scalable Machine Learning Platform.
+Machine learning evaluation metrics.
+Numenta Platform for Intelligent Computing.
+The most popular Python library for Machine Learning.
+Apache Spark 's scalable Machine Learning library.
+Lightweight Python wrapper for Vowpal Wabbit .
+Scalable, portable, and distributed gradient boosting library.
+Python programming on Microsoft Windows.
+Object oriented Python Distribution based on Qt and Spyder.
+Unofficial Windows binaries for Python extension packages.
+Python Integration with the .NET Common Language Runtime (CLR).
+Python Extensions for Windows.
+Portable development environment for Windows 7/8.
+Miscellaneous   Useful libraries or tools that don't fit in the categories above.
+Process signal/event dispatching system.
+Various helpers to pass trusted data to untrusted environments.
+simple but flexible plugin system for Python.
+set of tools to provide lightweight pipelining in Python.
+Writing crontab file in Python like a charm.
+Python job scheduling for humans.
+powerful workflow engine implemented in pure Python.
+Python library that helps to make task execution easy, consistent and reliable.
+Airflow is a platform to programmatically author, schedule and monitor workflows.
+Logging   Libraries for generating and working with logs.
+Logging for complex & distributed systems.
+Logging replacement for Python.
+(Python standard library) Logging facility for Python.
+Python client for Sentry, a log/error tracking, crash reporting and aggregation platform for web applications.
+Modern responsive template for the Django admin interface with improved functionality.
+Simple and extensible administrative interface framework for Flask.
+A Django app which creates automatic web UIs for Python scripts.
+Python implementation of algorithms and design patterns.
+Fast, pure-Python implementation of SortedList, SortedDict, and SortedSet types.
+Open web audio processing framework.
+Libraries for implementing authentications schemes.
+A generic and thorough implementation of the OAuth request-signing logic.
+A build system for creating, assembling and deploying applications from multiple parts.
+library for creating command line interfaces from absolutely any Python object.
+A command line HTTP client, a user-friendly cURL replacement.
+An open source framework for building computer vision applications.
+Concurrency and Parallelism   Libraries for concurrent and parallel execution.
+Declarative statistical visualization library for Python.
+Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
+Statistical data visualization using Matplotlib.
+High-performance scientific visualization based on OpenGL.
+Databases implemented in Python.
+A wrapper of the psycopg2 library for interacting with PostgreSQL.
+The Python client for Redis.
+A library for clearing up the inconvenient truths that arise dealing with datetimes.
+Software and libraries for DevOps.
+Framework agnostic REST framework based on lessons learned from Tastypie.
+Providing best-practice pipelines for fully automated high throughput sequencing analysis.
+A chemical toolbox designed to speak the many languages of chemical data.
+Markov Chain Monte Carlo sampling toolkit.
+Advanced Python REPL built on top of the  python-prompt-toolkit.
+Tokenization For sentence-level tasks (or sentence-pair) tasks, tokenization is very simple.
+All of the code in this repository works out-of-the-box with CPU, GPU, and Cloud TPU.
+At FAIR, Detectron has enabled numerous research projects, including:  Feature Pyramid Networks for Object Detection ,  Mask R-CNN ,  Detecting and Recognizing Human-Object Interactions ,  Focal Loss for Dense Object Detection ,  Non-local Neural Networks ,  Learning to Segment Every Thing ,  Data Distillation: Towards Omni-Supervised Learning ,  DensePose: Dense Human Pose Estimation In The Wild , and  Group Normalization.
+In this paper, we show that deep learning methods can be leveraged to train a model end-to-end to automatically generate code from a single input image with over 77% of accuracy for three different platforms.
+Even assuming a mature version of pix2code able to generate GUI code with 100% accuracy for every platforms/languages in the universe, front-enders will still be needed to implement the logic, the interactive parts, the advanced graphics and animations, and all the features users love.
+Then, using a single command, you create and start all the services from your configuration.
+Distributed computing : can run  Latent Semantic Analysis  and Latent Dirichlet Allocation  on a cluster of computers.
+On OS X, NumPy picks up the BLAS that comes with it automatically, so you don’t need to do anything special.
+This version has been tested under Python 2.7, 3.5 and 3.6.
+Gensim’s github repo is hooked against  Travis CI for automated testing  on every commit push and pull request.
+Support for Python 2.6, 3.3 and 3.4 was dropped in gensim 1.0.0.
+Internally, it uses these validator functions to check for the presence of required arguments.
+However, by using  GooeyParser , you can extend these functions with your own validation rules.
+For simple cases, output strings which resolve to a numeric representation of the completion percentage
+For more complicated outputs, you can pass in a custom evaluation expression to transform the things however you need.
+These can be overridden with your own custom images/icons by telling Gooey to search additional directories when initializing.
+Requests officially supports Python 2.7 & 3.4–3.7, and runs great on PyPy.
+An experimental library for Functional Reactive Programming in Scala (reactive variables).
+An experimental library for Functional Reactive Programming in Scala (reactive variables).
+Scalaz ZIO ★ 529  - A type-safe, composable library for asynchronous and concurrent programming in Scala   SynapseGrid ★ 109 ⧗ 1  - an FRP framework for constructing reactive real-time immutable data flow systems.
+It implements an original way of running and organizing event-driven systems based on Petri nets.
+The library is compatible with Akka and can seamlessly communicate with other actors.
+A polyglot reactive application platform for the JVM which aims to be an alternative to node.js.
+Scala extensions for Google Guice
+Lightweight Scala Dependency Injection Library.
+A toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications.
+A library for expressive and efficient service composition
+Distributed & Persistent Redis Clone built with Scala & Akka.
+Neural Machine Translation using sequence-to-sequence RNN with attention (OpenNMT).
+This package provides a library and a command-line tool named  , which makes it possible to get arbitrary-sized files and directories (or short pieces of text) from one computer to another.
+Support for all kinds of courses (i.e., "Old Platform"/time-based as well as "New Platform"/on-demand courses).
+Complete control over front-end design and structure.
+Scales to millions of pages and thousands of editors.
+Fast out of the box, cache-friendly when you need it.
+Content API for 'headless' sites with de-coupled front-end.
+Runs on a Raspberry Pi or a multi-datacenter cloud platform.
+StreamField encourages flexible content without compromising structure.
+Powerful, integrated search, using Elasticsearch or PostgreSQL.
+Excellent support for images and embedded content.
+Multi-site and multi-language ready.
+Embraces and extends Django.
+You can't load the whole archive into calibre.
+Despite its unassuming name, bup is pretty cool.
+Maybe prose is more useful after all.
+Powerful version control with a gorgeous interface.
+A simple, powerful database manager for macOS.
+A Modern PostgreSQL client for Mac.
+A modern MySQL CRUD application.
+The easiest way to get started with PostgreSQL on the Mac.
+It provides update-in-place, fluent query builder, ES6 syntax support and True IntelliSense experience.
+A simple MongoDB GUI.
+The GUI for MongoDB.
+Cross-platform GUI management tool for Redis.
+Free and open 3D creation software.
+A super simple plugin manager for Sketch.
+Quickly create interactive prototypes of mobile, desktop, or web apps.
+is a professional vector graphics editor.
+A bitmap image editor.
+Open-source digital painting software for concept artists, digital painters, and illustrators.
+An application for designing animated and interactive user interfaces.
+A free lightweight 8-bit voxel editor and interactive path tracing renderer.
+Easily export your screen into a layered PSD file.
+A free, open-source tool for making diagrams and GUI prototyping.
+The most popular mind-mapping tool on the planet.
+Practical mind-mapping software with free whiteboard-like layout.
+A tool for interactive prototyping.
+Open-source tool to compress images.
+Create and personalize icons from your pictures.
+Compress images with PNG format and remove transparency.
+A color-picking tool, supports Retina.
+A professional color matching application for your Mac.
+An All-in-one screenshot app.
+A png image assembler/disassembler app.
+Record your screen and export to GIF.
+You can change the recording area anytime during recording.
+An open-source screen-recorder built with web technology.
+A screen capture application with a powerful annotation capabilities.
+It's fast, easy and free.
+Icon management tool to organize or search your icons.
+A powerful, commercial VM developed by VMware.
+An open-source WeChat client, build with Electron .
+Users can exchange images, text, video and any other digital documents.
+A third-party Weibo client for Mac OS.
+A third-party Facebook messenger for Mac.
+Developer friendly with Markdown syntax support.
+A communication tool for enterprise use.
+The extensible command-line chat client.
+A fast email client.
+A fast email client.
+Simple, beautiful and powerful email client.
+A free, open-source, and cross-platform media player.
+#1 high-definition audio player for Mac and iPhone.
+Third party Google Play Music client.
+A minimal, beautifully designed music player.
+Open-source compositing software.
+Free, open-source music notation software.
+A free, open-source audio player.
+A tool to decode, convert and play various 'lossless' audio files.
+A simple, powerful, beautiful media player.
+Free open-source video editor.
+A simple, powerful, efficient subtitle creation software.
+Free audio, video and image conversion software.
+Synfig Studio is free, open-source 2D animation software.
+A Comprehensive Media Tool for macOS.
+Making High Quality Video Encoding Accessible for Everyone.
+Read Compiled HTML (.chm) documents on your Mac.
+A new way to manage highlights for Kindle and iBooks.
+A Mac read later client supporting all major providers: Instapaper, Pocket and Readability.
+A news reader for Feedbin, Feedly, Feed Wrangler and so on.
+A rich-format editor featuring Markdown export and Markdown syntax hints.
+A truly minimal Markdown editor featuring seamless live preview.
+Infamous note-taking app, available on many platforms.
+Note-taking app by Microsoft.
+UI Layout without XML  Android SDK leverages XML to build UI layouts.
+Listeners Android API defines many listener interfaces for callback notifications.
+The Mesos Version Manager (mvm) compiles, configures, and manages multiple versions of Apache Mesos.
+Implementations of Monoids for interesting approximation algorithms, such as Bloom filter, HyperLogLog and CountMinSketch.
+Currently we have 12 trackers, covering web, mobile, desktop, server and IoT Collectors receive Snowplow events from trackers.
+We facilitate building a music app and other amazing products.
+You can also extend with new instances/instance factories.
+The package also supports saving simple (non-nested) DataFrame.
+It's fast, boilerplate-free, and allows users to easily swap in/out different serialization formats (such as binary, or JSON), or even to provide their own custom serialization format.
+Glide supports fetching, decoding, and displaying video stills, images, and animated GIFs.
+Bazel runs on Windows, macOS, and Linux.
+This includes Oracle, MySQL, Derby, MSSQL, and others.
+Known Issues There are some issues which Tinker can't dynamic update.
+Do not support some Samsung models with os version android-21.
+Due to Google Play Developer Distribution Agreement, we can't dynamic update our apk.
+AndroidAnnotations is an Open Source framework that speeds up Android development.
+It uses evolutionary algorithms such as a genetic algorithm to train artificial neural networks.
+Usage examples: market segmentation, social networks analysis, organize computing clusters, astronomical data analysis, image compression, etc.
+Usage examples: intrusion detection, fraud detection, system health monitoring, removing anomalous data from the dataset etc.
+In case if you want to change the code and experiment with demo notebook you need to launch the notebook in Binder.
+Once a list of new features to be added has been collected, the items should be ordered by priority.
+Offering a complete set of widgets, GTK is suitable for projects ranging from small one-off projects to complete application suites.
+Create your own challenges, categories, hints, and flags from the Admin Interface.
+Check recent updates before submitting your pull requests.
+Fix something and open a pull request.
+Check for open issues or open a fresh issue to start a discussion around a feature idea or a bug.
+Search issues with the "help wanted" tag.
+I welcome every contribution to the list; for guidelines look the contributing section.
+If you would like to contribute code you can do so through GitHub by forking the repository and sending a pull request.
+For questions about how to use Locust, feel free to contact the community by the Slack or ask questions on Stack Overflow tagged Locust.
+NeuralCoref is production-ready, integrated in spaCy's NLP pipeline and extensible to new training datasets.
+XSStrike is a Cross Site Scripting detection suite equipped with four hand written parsers, an intelligent payload generator, a powerful fuzzing engine and an incredibly fast crawler.
+HBase is a distributed, scalable, big data store.

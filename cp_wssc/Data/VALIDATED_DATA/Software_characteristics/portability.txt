@@ -1,0 +1,142 @@
+Portability in high-level computer programming is the usability of the same software in different environments.
+The prerequirement for portability is the generalized abstraction between the application logic and system interfaces.
+Portability, in relation to software, is a measure of how easily an application can be transferred from one computer environment to another.
+Being able to move software from one machine platform to another. 
+It refers to system software or application software that can be recompiled for a different platform or to software that is available for two or more different platforms. 
+An application that can be converted from one computer environment to another.
+An application that can be easily moved from one computer to another. 
+With regards to Windows apps, such programs would not use the Registry. 
+In a totally portable application, all related files would be stored in a single folder so it can be copied with one command or one drag and drop. 
+The folder would likely have many subfolders, and they would all copy in the same transaction.
+An application stored on a USB flash drive that can run on a computer without leaving any trace of itself when the application is finished. 
+It is designed to restore all changed settings when the program is closed. 
+Non portable USB applications are typically dependent on a particular brand of USB drive.
+To translate software to run in a different computer environment. For example, "port the application to Unix" means make the necessary changes in the program's source code so that it can be compiled and run under the Unix operating system.
+Most software developers agree that portability is a desirable attribute for their software projects.
+The useful life of an application, for example, is likely to be extended, and its user base increased, if it can be migrated to various platforms over its lifetime. 
+In spite of the recognized importance of portability, there is little guidance for the systematic inclusion of portability considerations in the development process.
+The concept of software portability has different meanings to different people. 
+According to some definitions, software is portable only if the executable files can be run on a new platform without change. 
+Others may feel that a significant amount of restructuring at the source level is still consistent with portability. 
+A software unit is portable (exhibits portability) across a class of environments to the degree that the cost to transport and adapt it to a new environment in the class is less than the cost of redevelopment.
+Portability is not a binary attribute. 
+We consider that each software unit has a quantifiable degree of portability to a particular environment or class of environments, based on the cost of porting. 
+Note that the degree of portability is not an absolute; it has meaning only with respect to a specific environment or class.
+There are both costs and benefits associated with developing software in a portable manner. These costs and benefits take a variety of forms.
+We distinguish two major phases of the application porting process.
+Transportation and adaptation. Adaptation includes most of the modifications that need to be made to the original software, including automated retranslation. 
+Transportation refers to the physical movement of the software and associated artifacts, but also includes some low level issues of data representation.
+The alternative to porting software to a new environment is redeveloping it based on the original specifications.
+There are many hardware and software platforms; it is not only a Windows world.
+Users who move to different environments want familiar software.
+But not all processors enforce scatar data items aligned at memory addresses that are even multiples of their own size, to the chagrin of nonportable software.
+Portable software could simply not rely on ANSI C being widely available - GNU C was not yet mature - and it was often an agonizing tradeoff on just how much of ANSI C could be use.
+Most software porters created portability macros that allowed the use of many of these features in code that could be straight K&R or ANSI.
+The "build environment" is the set of all software and tools required to go from "source code" to "delivered product".
+In addition, it's often simply not possible to "work around" an issue with an operating system in the same way that conditional compilation can resolve one with the compiler.
+When considering a port to entirely different operating systems these issues become much larger. 
+Though the ANSI C library is highly portable across all supported platforms.
+Only after solving these problems many times does one start to take pre-emptive action to engineer portability in from the very start.
+One approach to the problem of portable software is the design of a universal, hypothetical computer and the implementation of a simulator of the hypothetical computer on the actual machines under consideration.
+The notion of software portability was confined to some research projects in universities. It has now become relevant, in some cases even vital, to the economical development of software in practice. 
+Portability is a characteristic attributed to a computer program if it can be used in an operating systems other than the one in which it was created without requiring major rework. 
+Porting is the task of doing any work necessary to make the computer program run in the new environment. 
+In general, programs that adhere to standard program interfaces are portable. 
+Ideally, such a program needs only to be compiled for the operating system to which it is being ported. 
+However, programmers using standard interfaces also sometimes use operating system extensions or special capabilities that may not be present in the new operating system. 
+Uses of such extensions have to be removed or replaced with comparable functions in the new operating system.
+In addition to language differences, porting may also require data conversion and adaptation to new system procedures for running an application.
+Portability has usually meant some work when moving an application program to another operating system. 
+Recently, the Java programming language and runtime environment has made it possible to have programs that run on any operating system that supports the Java standard (from Sun Microsystems) without any porting work. 
+Java applets in the form of precompiled bytecode can be sent from a server program in one operating system to a client program (your Web browser) in another operating system without change.
+This is a port of OpenBSD's OpenSSH to most Unix-like operating systems, including Linux, OS X and Cygwin. 
+Portable OpenSSH polyfills OpenBSD APIs that are not available elsewhere, adds sshd sandboxing for more operating systems and includes support for OS-native authentication and auditing.
+The Data Transfer Project makes it easy for people to transfer their data between online service providers. 
+We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers. 
+Embeddable Javascript engine with a focus on portability and compact footprint.
+This is a small and portable implementation of the AES ECB, CTR and CBC encryption algorithms written in C.
+A fast, portable, flexible JavaScript component framework.
+A modern, portable, easy to use crypto library.
+It is a portable, cross-compilable, installable, packageable fork of NaCl, with a compatible API, and an extended API to improve usability even further.
+Sodium is cross-platforms and cross-languages. 
+It runs on a variety of compilers and operating systems, including Windows (with MinGW or Visual Studio, x86 and x86_64), iOS and Android.
+Javascript and WebAssembly versions are also available and are fully supported. 
+Bindings for all common programming languages are available and well-supported.
+Portable Computing Language.
+A portable foreign-function interface library.
+Compilers for high level languages generate code that follow certain conventions. 
+These conventions are necessary, in part, for separate compilation to work. 
+The "calling convention" is essentially a set of assumptions made by the compiler about where function arguments will be found on entry to a function.
+Portable Unix shell commands for Node.js
+ShellJS is a portable (Windows/Linux/OS X) implementation of Unix shell commands on top of the Node.js API.
+You can use it to eliminate your shell script's dependency on Unix while still keeping its familiar and powerful commands.
+You can also install it globally so you can run it from outside Node projects - say goodbye to those gnarly Bash scripts!
+Make existing (production) applications portable with minimal disruption
+Provide a model for new applications so that they are portable from inception.
+Advanced image processing and computer vision algorithms made as fluent extensions and built for portability.
+The portable version contains everything which is required to run the application on Windows systems.
+Halide is a language for fast, portable data-parallel computation.
+It can be actually run in a variety of architectures, operating systems and using different GPU Compute APIs.
+A portable logging abstraction for .NET language.
+Provides a simple logging abstraction to switch between different logging implementations. There is current support for log4net, NLog, Microsoft Enterprise Library logging, Microsoft Application Insights, Microsoft Event Tracing for Windows, and Serilog.
+The Apache Portable Runtime Library provides a predictable and consistent interface to underlying platform-specific implementations, with an API to which software developers may code and be assured of predictable if not identical behavior regardless of the platform on which their software is built, relieving them of the need to code special-case conditions to work around or take advantage of platform-specific deficiencies or features.
+This repo contains .NET Portability Analyzer libraries and tools.
+The first goal of these tools are to help identify APIs that are not portable among the various .NET Platforms.
+These include Microsoft supported platforms (Windows, Windows apps, DNX) as well as other implementations, such as Mono and Xamarin. Some APIs may be removed on certain platforms (such as AppDomains, File I/O, etc.), or refactored into other types (such as some Reflection APIs).
+Most of these are considered benign changes that shouldn't affect most applications; however, we understand that what may be low impact for one scenario may be a very impactful breaking change for another.
+This is a userland SCTP stack supporting FreeBSD, Linux, MacOS and Windows.
+A portable SCTP userland stack.
+MultiNEAT is a portable software library for performing neuroevolution, a form of machine learning that trains neural networks with a genetic algorithm.
+No windows or any other operative system (MacOS or Linux) dependency.
+Avoid code changes when deploying your application between Linux and Windows based systems.
+A portable Cygwin environment with many options. It's very useful for "static" installations too.
+Portable file system cache diagnostics and control.
+Noriben - Portable, Simple, Malware Analysis Sandbox.
+Parallel Execution and Memory Abstraction in heterogeneous and complex systems.
+PCL Storage provides a consistent, portable set of local file IO APIs for .NET, Windows Phone, Windows Store, Xamarin.iOS, Xamarin.Android, and Silverlight. 
+This makes it easier to create cross-platform .NET libraries and apps.
+These differing APIs make it harder to write cross-platform code. 
+Traditionally, you could handle this via conditional compilation.
+However, that means you can't take advantage of Portable Class Libraries, and in any case may not scale well as your code gets complex (and especially because for WinRT you need to use async APIs).
+libuv is a multi-platform support library with a focus on asynchronous I/O. 
+It was primarily developed for use by Node.js, but it's also used by Luvit, Julia, pyuv, and others.
+As a cross platform UI Toolkit, you can now use RNE on the web & share your codebase between your React Native + React web apps. 
+RNE components are rendered perfectly on browser. You can achieve this to target iOS, Android and Web by collaborating RNE and React Native for Web.
+A Foundation for Scalable Cross-Platform Apps.
+Shadowsocks-Qt5 is a native and cross-platform shadowsocks GUI client with advanced features.
+Thanks to its capabilities, applications can be deployed to mobile devices (iOS, Android), the desktop (Windows, OS X), and to the browser (via the Flash plugin).
+The Cross Platform Game Engine.
+Alacritty currently supports macOS, Linux, BSD, and Windows.
+One of the key objective is to make AES work on all the platforms with simple implementation.
+Expo is a set of tools, libraries, and services that let you build native iOS and Android apps by writing JavaScript.
+Supports all of the most used modern browsers: Chrome, Edge, Firefox, Internet Explorer, Opera and Safari.
+This doesn't mean that HTML5 Boilerplate cannot be used in older browsers, just that we'll ensure compatibility with the ones mentioned above.
+If you need legacy browser support you can use HTML5 Boilerplate v6 (IE9/IE10) or HTML5 Boilerplate v5 (IE 8). They are no longer actively developed.
+Multi-platform 2D and 3D game engine.
+Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. 
+Games can be exported in one click to a number of platforms, including the major desktop platforms (Linux, MacOS, Windows) as well as mobile (Android, iOS) and web-based (HTML5) platforms.
+See the official docs for compilation instructions for every supported platform.
+A multi-platform .NET UI framework
+Avalonia is a WPF/UWP-inspired cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows (.NET Framework, .NET Core), Linux (via Xorg), MacOS and with experimental support for Android and iOS.
+Multi-platform toolkit.
+GTK is a multi-platform toolkit for creating graphical user interfaces. 
+TBOX is a glib-like cross-platform C library that is simple to use yet powerful in nature.
+It supports the following platforms: Windows, MacOS, Linux, Android, iOS.
+Messaging APIs for multi-platform.
+It helps you build your bots using similar API for multiple platforms, e.g. Messenger, LINE. 
+Learn once and make writing cross-platform bots easier.
+Sigil is a multi-platform EPUB ebook editor.
+Multi-platform ACL generation system.
+A compiled Win32 portable version of Ncat.
+portable music player.
+Docker toolbox portable for Windows systems.
+Several built-in TTS engine wrappers: AWS Polly TTS API, eSpeak (default), eSpeak-ng, Festival, MacOS (via say), Nuance TTS API.
+Installing an operating system on your Raspberry Pi.
+A dynamic framework is designed to be installed in your operating system and portable to other environments.
+Below shows how to build the standalone executable on macOS, Linux and Windows.
+By using same codebase, you can target Windows, macOS, Linux, Android and iOS.
+Bear should be quite portable on UNIX operating systems.
+Suitable for Unix and Unix-like systems (Linux, macOS, etc.).
+macOS users must also run the following command for Android Studio to see this environment variable.
+SquiDB is a cross-platform SQLite database layer for Android and iOS.
+If you are launching Android Studio from the macOS Finder, you should also run the following two commands.

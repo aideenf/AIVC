@@ -1,0 +1,12 @@
+* view user followers, following, and organizations
+*note: to scrape a private user\'s media you must be an approved follower.
+It provides a high-level interface for drawing attractive statistical graphics.
+    newsblur\'s followers are largely technical.
+since the target audience is developers, i opted to leave some parts a little less user-friendly, such as the `settings.py` config system.
+\'path\' has a very attractive menu sitting on the left bottom corner of the screen.
+Chrome\'s vast user base makes it the most attractive target for threat actors and security researchers.
+## audience of django-shop users
+  * hall of fame of the best individuals that lived in the population
+if you enjoy octoprint, please consider becoming a regular supporter!**
+* 25 ready-made social badges using brand colors
+The brand name ERPNext and the logo are trademarks of Frappe Technologies Pvt.

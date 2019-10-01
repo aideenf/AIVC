@@ -1,0 +1,72 @@
+in view of the issues with the swagger codegen 3.0.0 (beta) release and the disagreement on the project\'s direction, more than 40 top contributors and template creators of swagger codegen decided to fork swagger codegen and maintain a community-driven version called "openapi generator".
++ This is an easter egg concerned with the community\'s feelings on this issue.
+we would like to take this opportunity to thank all of our community members for their effort and dedication to jersey for these many years.
+and of course, we couldn't do this without [our community of
+Chrome has the largest share of global usage and is the preferred target platform for the majority of developers.
+- remember that this is a community project, people are contributing in their free time because they like doing so: don\'t take the fun away!
+since i intended this to be a community project, the goals are aligned, keeping that fact in mind.
+## community and support
+the debezium community welcomes anyone that wants to help out in any way, whether that includes reporting problems, helping with documentation, or contributing code changes to fix bugs, add tests, or implement new features.
+as a community, we no longer hand-engineer our mapping functions, and this work suggests we can achieve reasonable results without hand-engineering our loss functions either.
+our aim is for the number of tasks and agents that train on them to grow in a community-based way.
+## help support spyder, the community-developed scientific ide!
+the pmc will lean towards developer community support, to help discovery and initial steps towards incubation in the external repository.
+        unless required by applicable law or agreed to in writing, software
+if you have any questions or comments about voltdb, we encourage you to reach out to the voltdb team and community.
+* come join the aws java community chat on [gitter][gitter]
+use caffeine in a community provided integration:
+a community group was created, they created camerakit, don\'t hesitate to try it !
+# developer community\r
+ant financial joins fescar, which make it to be a more neutral and open community for distributed transaction\xef\xbc\x8cand fescar be rename to seata.
+as the apache airflow community grows, we\'d like to keep track of who is using
+Additionally, you can modify SAM to integrate it with other frameworks and deployment providers from the community for building serverless applications.
+    -   tcsh - community supported
+you can always contact us via github@applikey.biz we are open for any inquiries regarding our libraries and controls, new open-source projects and other ways of contributing to the community.
+Whether you want learn which organizations are the big players in the web archiving space, want to find a specific open source tool for your web archiving need, or just want to see where archivists hang out online, our Community Wiki page serves as an index of the broader web archiving community.
+# join the fairseq community
+we welcome contributions from our community of all
+before using any encryption software, please check your country's laws, regulations and policies concerning
+### community projects
+The overwhelming support by the community gave it the shape it is in right now.
+- [and here you can find lots of sophisticated **quickstart** templates shared by the community!
+voltdb offers the fully open source, agpl3-licensed community edition of voltdb through github here: 
+Kivy is MIT licensed, actively developed by a great community and is supported
+community announcements.
+the overwhelming support by the community gave it the shape it is in right now.
+i believe the community are smart enough to finish the rest of the owl.
+Thanks to our great community, we\'ve finally re-added conda support.
+this makes it easy for our developers or someone from the open-source community to start working!
+please continue opening issues and providing feedback for community
+configuration management, service discovery, circuit breakers, intelligent routing, micro-proxy, control bus, one-time tokens, global locks, leadership election, distributed sessions, cluster state)
+contributions are what make the open source community such an amazing place to learn, inspire, and create.
+it is a community repository for active users.
+    -   Windows - community supported
+we feel that a welcoming open community is important and welcome contributions.
+- We\xe2\x80\x99d like to make it easy for anyone to use the ERPNext name or logo for community-oriented efforts that help spread and improve ERPNext.
+various independently maintained, os specific packages have been made available by the community:
+user can create their own packs,  share them on github, or submit to stackstorm community repo.
+working in community, we can soon have a cli client as complete as the web one!
+we love contributions from the community!
+this product is open source and free, and will continue to provide free community technical support.
+kivy is mit licensed, actively developed by a great community and is supported
+* [community guidelines](code_of_conduct.md)
+thx to all rs users for your warm support, it\'s been a pleasure to ofer this library to the community.
+perhaps someday the java community will standardize on one.
+* [extensive documentation][docs], and [great community support][group].
+the community has provided several helpful modules to make developing apps with conductor even easier.
+additionally, you can modify sam to integrate it with other frameworks and deployment providers from the community for building serverless applications.
+github didn\'t want to maintain the app anymore, so it\'s been released to the community and maintained as a public project.
+some of these planned features are easier than others to implement, but i understand how much the programming community wants these, so i will try my best.
+a growing number of packs is available on stackstorm community.
+if you want to find other (community provided) storages: `pip search docker-registry-driver`
+be sure that you understand and are complying with the csploit licenses and laws in your area.
+jctools has enjoyed support from the community
+in jurisdictions that recognize copyright laws, the author or authors\r
+it is the final user\'s responsibility to obey all applicable local, state and federal laws.
+in\r    case that the jurisdiction has no such laws, regulations, rules and\r    standards or its laws, regulations, rules and standards are\r    unenforceable, the individual or the legal entity are required to\r    comply with core international labor standards.\r\r    3. the individual or the legal entity shall not induce, suggest or force\r    its employee(s), whether full-time or part-time, or its independent\r    contractor(s), in any methods, to agree in oral or written form, to\r    directly or indirectly restrict, weaken or relinquish his or her\r    rights or remedies under such laws, regulations, rules and standards\r    relating to labor and employment as mentioned above, no matter whether\r    such written or oral agreements are enforceable under the laws of the\r    said jurisdiction, nor shall such individual or the legal entity\r    limit, in any methods, the rights of its employee(s) or independent\r    contractor(s) from reporting or complaining to the copyright holder or\r    relevant authorities monitoring the compliance of the license about\r    its violation(s) of the said license.\r\r    the licensed work is provided "as is", without warranty of any kind,\r    express or implied, including but not limited to the warranties of\r    merchantability, fitness for a particular purpose and noninfringement.\r    in no event shall the copyright holder be liable for any claim,\r    damages or other liability, whether in an action of contract, tort or\r    otherwise, arising from, out of or in any way connection with the\r    licensed work or the use or other dealings in the licensed work.\r'
+specifically, it uses unbiased variance to update the moving average, and use sqrt(max(var, eps)) instead of sqrt(var + eps).
+we intend the issues page to be a forum in which the community collectively troubleshoots problems.
+warranty, to the extent permitted by law.
+*not host or distribute these datasets, vouch for their quality or fairness, or*
+before using any encryption software, please check your country's laws, regulations and policies concerning the import, possession, or use, and re-export of encryption software, to see if this is permitted.
+software under copyright law.\r
