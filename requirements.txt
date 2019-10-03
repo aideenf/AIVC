@@ -14,4 +14,4 @@ nltk
 seaborn
 matplotlib
 ipywidgets
-github
+PyGithub
