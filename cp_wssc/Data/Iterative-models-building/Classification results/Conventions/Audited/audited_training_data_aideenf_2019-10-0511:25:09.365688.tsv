@@ -1,0 +1,8 @@
+text	provenance	convention	old	new
+Very fast: up to 2x faster than Detectron and 30% faster than mmdetection during training. 	efficiency	civic	1	1
+While Kestrel is a great solution up to a certain point (simple, fast, durable, and easy to deploy), it hasn't been able to cope with Twitter's massive scale (in terms of number of tenants, QPS, operability, diversity of workloads etc.) 	efficiency	civic	1	0
+it comes with a tradeoff as map and filter functions perform poorer with this API. 	efficiency	industrial	0	1
+When we work with tiny datasets, we can get away with loading an entire dataset into GPU memory. 	efficiency	industrial	0	1
+📖 Make the Web Faster | Google Developers. 	efficiency	civic	1	1
+Lightning-fast cluster computing with Apache Spark. 	efficiency	green	0	1
+When it comes to improving the execution time of your multiple-task code, you may want to utilize multiple cores in the CPU to execute several tasks simultaneously.  	efficiency	civic	1	1
