@@ -1,0 +1,5 @@
+text	provenance	convention	old	new
+The TensorFlow project strives to abide by generally accepted best practices in open-source software development. 	efficiency	civic	1	1
+It can cluster millions of instances efficiently. 	efficiency	civic	1	1
+Top waits - are monitored to determine what wait times can be cut down when dealing with the how fast data is retrieved from memory 	efficiency	civic	1	1
+Suggested not to be higher than 8 GB (will cause issues scheduling) 	efficiency	civic	1	1
