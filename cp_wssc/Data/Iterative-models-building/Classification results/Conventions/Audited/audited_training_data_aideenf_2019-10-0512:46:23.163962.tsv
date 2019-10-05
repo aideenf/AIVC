@@ -1,0 +1,7 @@
+,text,provenance,convention,old,new
+0,"Performance engineering encompasses the techniques applied during a systems development life cycle to ensure the non-functional requirements for performance (such as throughput, latency, or memory usage) will be met. ",efficiency,civic,1,1
+0,Specify a profiling tool for the development/component unit test environment. ,efficiency,civic,1,1
+0,Disk queue length - is the avg. no. of read and write requests queued for the selected disk during a sample interval. ,efficiency,civic,1,1
+0,"When it comes to improving the execution time of your multiple-task code, you may want to utilize multiple cores in the CPU to execute several tasks simultaneously.  ",efficiency,civic,1,0
+0,Power/Performance evaluation of Energy Efficient Ethernet for High Performance Computing. ,efficiency,civic,1,0
+0,Hardware Efficiency Aware Neural Architecture Search. ,efficiency,civic,1,0
