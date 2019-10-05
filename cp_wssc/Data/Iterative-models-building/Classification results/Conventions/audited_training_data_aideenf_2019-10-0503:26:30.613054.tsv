@@ -1,0 +1,11 @@
+,text,provenance,convention,old,new
+0,Check the maximum number of users that the application can handle before it crashes. ,efficiency,civic,1,1
+0,"Doing so enables us to train faster, using larger batch sizes, and consequently achieving a higher GPU utilization rate. ",efficiency,civic,1,1
+0,Average GPU memory usage is quite similar. ,efficiency,civic,1,1
+0,A library for expressive and efficient service composition. ,efficiency,civic,1,1
+0,Quantitative performance analysis is the foundation for computer system design and innovation.  ,efficiency,civic,1,0
+0,Fast Style Transfer in TensorFlow. ,efficiency,civic,1,0
+0,This process aims to optimize the most important application performance trait i.e. user experience. ,efficiency,civic,1,0
+0,Memory-efficient and fast implementation of local adaptive binarization methods. ,efficiency,civic,1,0
+0,Garbage collection - It has to do with returning unused memory back to the system. Garbage collection needs to be monitored for efficiency. ,efficiency,civic,1,0
+0,An efficient densenet using learned group convolutions. ,efficiency,domestic,0,1
