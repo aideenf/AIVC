@@ -1,0 +1,5 @@
+text	provenance	convention	old	new
+This includes all sorts of active memory regions like code segment containing (mostly) program instructions (and occasionally constants), data segment (both initialized and uninitialized),heap memory, call stack, plus memory required to hold any additional data structures, such as symbol tables, debugging data structures, open files, shared libraries mapped to the current process, etc., that the program ever needs while executing and will be loaded at least once during the entire run. 	efficiency	civic	1	1
+To ensure high throughput, web servers can keep a large number of TCP connections open, resulting in high memory usage. 	efficiency	civic	1	1
+How come gensim is so fast and memory efficient? 	efficiency	civic	1	1
+In the field of information and computer technology (ICT), saving energy has its focus set on energy. 	efficiency	civic	1	1
