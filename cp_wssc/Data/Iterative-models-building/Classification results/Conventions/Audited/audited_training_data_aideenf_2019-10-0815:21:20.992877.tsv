@@ -1,8 +1,0 @@
-text	provenance	convention	old	new
-Capable of processing even in big data scenarios. 	efficiency	civic	1	1
-Larger numbers of elements increases management complexity, more sophisticated programming to allocate tasks among resources and handle issues such as throughput and latency across nodes, while some applications do not scale horizontally. 	efficiency	civic	1	1
-That means that it’s super-performant because serialization-related code is typically generated at compile-time and inlined where it is needed in your code. 	efficiency	civic	1	1
-This avoids computational bottlenecks while loading data. 	efficiency	civic	1	1
-Superresolution using an efficient sub-pixel convolutional neural network. 	efficiency	civic	1	1
-Provides configurable automation of system and business workflow processes. 	efficiency	civic	1	0
-Python’s interpreter performs the memory management and users have no control over it.  	efficiency	civic	1	0
