@@ -16,3 +16,4 @@ matplotlib
 ipywidgets
 PyGithub
 cloudpickle
+pillow
