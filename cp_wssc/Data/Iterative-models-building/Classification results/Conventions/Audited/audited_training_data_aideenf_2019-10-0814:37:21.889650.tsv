@@ -1,0 +1,9 @@
+text	provenance	convention	old	new
+Supports the number of concurrent system users you require, at peak processing / enquiry times, with no degradation of system performance. 	efficiency	civic	1	1
+Load testing is used to study the behavior of the application under specified loads. It also shows how an application will function when the majority of its users are logged in. 	efficiency	civic	1	1
+This adds 15-20% of time overhead for training, but reduces feature map consumption from quadratic to linear. 	efficiency	civic	1	1
+Remove unnecessary code or code that goes to redundant processing. 	efficiency	civic	1	1
+A simple Python program may not cause many problems when it comes to memory, but memory utilization becomes critical on high memory consuming projects. 	efficiency	civic	1	1
+Create programming code that ensures data integrity and consistency. 	efficiency	civic	1	1
+Low-latency. 	efficiency	civic	1	1
+Make use of reusable components wherever possible. 	efficiency	civic	1	1
