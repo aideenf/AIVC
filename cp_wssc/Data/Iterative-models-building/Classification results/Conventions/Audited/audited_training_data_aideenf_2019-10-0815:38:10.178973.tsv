@@ -1,5 +1,0 @@
-text	provenance	convention	old	new
-Processed data will be written to disk before an operation returns. 	efficiency	civic	1	1
-Make use of reusable components wherever possible. 	efficiency	civic	1	1
-Deploy the performance tools for the development team. 	efficiency	civic	1	1
-designed for highly concurrent, low-latency workloads such as dashboards and alerting. 	efficiency	civic	1	1
