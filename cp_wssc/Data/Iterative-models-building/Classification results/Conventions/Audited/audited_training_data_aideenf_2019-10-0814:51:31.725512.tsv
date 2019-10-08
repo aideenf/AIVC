@@ -1,7 +1,0 @@
-text	provenance	convention	old	new
-It may seem intuitive to spawn several threads and let them execute concurrently. 	efficiency	civic	1	1
-For such resource constrained environments, performance alone is never sufficient, requiring system designers to carefully balance performance with power, energy, and area. 	efficiency	civic	1	1
-Then using the efficient search scroll API, the entire dataset that matches your query is streamed out to subscribers. 	efficiency	civic	1	1
-On the other hand, Cassovary is intended to be easy to use in a JVM-hosted environment and yet be efficient enough to scale to billions of edges. 	efficiency	civic	1	0
-Private bytes - number of bytes a process has allocated that can't be shared amongst other processes. These are used to measure memory leaks and usage. 	efficiency	civic	1	0
-Modelling Optimization of Energy Efficiency in Buildings for Urban Sustainability. 	efficiency	civic	1	0
