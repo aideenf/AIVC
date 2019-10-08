@@ -1,0 +1,24 @@
+text	provenance	convention	old	new
+Average relative increase in memory consumption. 	efficiency	civic	1	1
+For large numbers/data crunching, you can use libraries like Numpy, which gracefully handles memory management. 	efficiency	civic	1	1
+Performance Testing is defined as a type of software testing to ensure software applications will perform well under their expected workload. 	efficiency	civic	1	1
+Neural network architectures for resource constrained devices. 	efficiency	civic	1	1
+Caching improves page load times and can reduce the load on your servers and databases. 	efficiency	civic	1	0
+Security, safety and privacy challenges and building secure AI systems. 	efficiency	civic	1	0
+Rollback segment - the amount of data that can rollback at any point in time. 	efficiency	civic	1	0
+Database locks - locking of tables and databases needs to be monitored and carefully tuned. 	efficiency	civic	1	0
+Some computer scientists point out that the efficiency or performance of software is decreasing when the hardware is becoming more powerful.  	efficiency	green	0	1
+Some computer scientists point out that the efficiency or performance of software is decreasing when the hardware is becoming more powerful.  	efficiency	civic	1	0
+Fix High RAM and CPU Usage of Windows 10 System. 	efficiency	civic	1	0
+Private bytes - number of bytes a process has allocated that can't be shared amongst other processes. These are used to measure memory leaks and usage. 	efficiency	civic	1	0
+Judiciously decide whether to load entire files into RAM. 	efficiency	civic	1	0
+The average heap memory consumption after a minor collection. 	efficiency	civic	1	1
+Memory manager internally ensures the management of this private heap. 	efficiency	green	0	1
+Memory manager internally ensures the management of this private heap. 	efficiency	civic	1	0
+Stability - Determines if the application is stable under varying loads. 	efficiency	green	0	1
+Stability - Determines if the application is stable under varying loads. 	efficiency	civic	1	0
+It is hard to overload the server with MaricutoDB. 	efficiency	green	0	1
+It is hard to overload the server with MaricutoDB. 	efficiency	civic	1	0
+This adds 15-20% of time overhead for training, but reduces feature map consumption from quadratic to linear. 	efficiency	green	0	1
+This adds 15-20% of time overhead for training, but reduces feature map consumption from quadratic to linear. 	efficiency	civic	1	0
+Memory management in Python involves a private heap that contains all Python objects and data structures. 	efficiency	civic	1	1
