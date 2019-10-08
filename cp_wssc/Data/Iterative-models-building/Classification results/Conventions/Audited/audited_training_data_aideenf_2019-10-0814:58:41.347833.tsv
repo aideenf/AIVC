@@ -1,0 +1,15 @@
+text	provenance	convention	old	new
+When retrieving data by row key and then by range, you get a fast and efficient access pattern due to minimal disk seeks – time series data is an excellent fit for this type of pattern. 	efficiency	civic	1	1
+Cache-Control headers and gzip support to be as fast as possible. 	efficiency	civic	1	1
+Fast Decoding in Sequence Models using Discrete Latent Variables. 	efficiency	civic	1	1
+System should utilize processor capacity, disk space and memory efficiently.  	efficiency	civic	1	1
+Maximum active sessions - the maximum number of sessions that can be active at once. 	efficiency	civic	1	1
+Determine whether their software meets speed, scalability and stability requirements. 	efficiency	civic	1	1
+A collection of recent methods on DNN compression and acceleration. There are mainly 5 kinds of methods for efficient DNNs. 	efficiency	civic	1	0
+Efficiency attempts to measure the amount of productive code contributed by a software developer. 	efficiency	civic	1	0
+Cycle time describes how long it takes to change the software system and implement that change in production. 	efficiency	civic	1	0
+It can cluster millions of instances efficiently. 	efficiency	civic	1	0
+DoctorKafka can also perform load balancing based on topic partitions\'s network usage, and makes sure that broker network usage does not exceed the defined settings. 	efficiency	civic	1	0
+Load balancing and efficient task distribution techniques. 	efficiency	civic	1	0
+Steppy is a lightweight, open-source, Python library for fast and reproducible experimentation. 	efficiency	civic	1	0
+Older version was consuming too much memory. 	efficiency	civic	1	0
