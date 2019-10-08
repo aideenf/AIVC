@@ -1,8 +1,0 @@
-text	provenance	convention	old	new
-The performance and memory consumption will also be worse than running directly.	efficiency	civic	1	1
-Supports your chosen operational set up eg whether using SaaS, running a Shared Service Centre, single or multiple sites. 	efficiency	civic	1	1
-Efficient on-device learning techniques. 	efficiency	civic	1	1
-The guidelines are focused on relatively higher-level issues, such as interfaces, resource management, memory management, and concurrency. 	efficiency	civic	1	1
-The power consumption of the streaming media server can be obtained in real time by the virtual instrumentation software module described. 	efficiency	civic	1	1
-Performance Testing is popularly called “Perf Testing” and is a subset of performance engineering. 	efficiency	civic	1	1
-DoctorKafka can also perform load balancing based on topic partitions\'s network usage, and makes sure that broker network usage does not exceed the defined settings. 	efficiency	civic	1	0
