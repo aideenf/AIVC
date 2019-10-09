@@ -1,8 +1,0 @@
-text	provenance	convention	old	new
-For efficiency evaluation, the constructed model has been tested on real-life data and it is shown that the constructed prediction model is more efficient than all previous models. 	efficiency	civic	1	1
-Processor Usage - an amount of time processor spends executing non-idle threads. 	efficiency	civic	1	1
-It may seem intuitive to spawn several threads and let them execute concurrently. 	efficiency	civic	1	1
-This includes all sorts of active memory regions like code segment containing (mostly) program instructions (and occasionally constants), data segment (both initialized and uninitialized),heap memory, call stack, plus memory required to hold any additional data structures, such as symbol tables, debugging data structures, open files, shared libraries mapped to the current process, etc., that the program ever needs while executing and will be loaded at least once during the entire run. 	efficiency	civic	1	1
-Images are cached to memory and to disk for super fast loading. 	efficiency	civic	1	1
-Make use of optimal memory and nonvolatile storage. 	efficiency	civic	1	1
-When it comes to improving the execution time of your multiple-task code, you may want to utilize multiple cores in the CPU to execute several tasks simultaneously.  	efficiency	civic	1	1
