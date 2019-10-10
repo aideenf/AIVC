@@ -1,0 +1,10 @@
+text	provenance	convention	old	new
+Each dataset is represented by a directory containing the same image data in several resolutions to enable efficient streaming. 	efficiency	civic	1	1
+To scalable distributed processing, Apache Spark also allows interactive data analysis. 	efficiency	civic	1	1
+To scalable distributed processing, Apache Spark also allows interactive data analysis. 	efficiency	civic	1	1
+The fast pace of hardware development provides enriched hardware resources that increase the tolerance to inefficiency.  	efficiency	civic	1	1
+Remove unnecessary code or code that goes to redundant processing. 	efficiency	civic	1	1
+A deep learning framework designed for both efficiency and flexibility. 	efficiency	civic	1	0
+To scalable distributed processing, Apache Spark also allows interactive data analysis. 	efficiency	civic	1	0
+Therefore, developers of less demanding software gradually lower their standard on efficiency.  	efficiency	civic	1	0
+To scalable distributed processing, Apache Spark also allows interactive data analysis. 	efficiency	civic	1	0
