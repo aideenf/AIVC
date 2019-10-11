@@ -1,0 +1,4 @@
+text	provenance	convention	old	new
+GreenDAO is an ORM optimized for Android: it maps database tables to Java objects and uses code generation for optimal speed. 	efficiency	civic	1	1
+Note that it will allocate memory for ``max(i)+1`` items. 	efficiency	civic	1	1
+The new efficient optimizer can reduce memory usage, but can also affect the processor load. 	efficiency	civic	1	1

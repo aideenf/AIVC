@@ -1,0 +1,20 @@
+text	provenance	convention	old	new
+"BigDL can efficiently scale out to perform data analytics at ""Big Data scale"", by leveraging Apache Spark (a lightning fast distributed data processing framework), as well as efficient implementations of synchronous SGD and all-reduce communications on Spark. "	efficiency	green	1	1
+"BigDL can efficiently scale out to perform data analytics at ""Big Data scale"", by leveraging Apache Spark (a lightning fast distributed data processing framework), as well as efficient implementations of synchronous SGD and all-reduce communications on Spark. "	efficiency	green	1	1
+Glide is a fast and efficient open source media management and image loading framework for Android that wraps media decoding, memory and disk caching, and resource pooling into a simple and easy to use interface. 	efficiency	green	1	1
+Glide is a fast and efficient open source media management and image loading framework for Android that wraps media decoding, memory and disk caching, and resource pooling into a simple and easy to use interface. 	efficiency	green	1	1
+"BigDL can efficiently scale out to perform data analytics at ""Big Data scale"", by leveraging Apache Spark (a lightning fast distributed data processing framework), as well as efficient implementations of synchronous SGD and all-reduce communications on Spark. "	efficiency	green	1	1
+Glide is a fast and efficient open source media management and image loading framework for Android that wraps media decoding, memory and disk caching, and resource pooling into a simple and easy to use interface. 	efficiency	green	1	1
+"BigDL can efficiently scale out to perform data analytics at ""Big Data scale"", by leveraging Apache Spark (a lightning fast distributed data processing framework), as well as efficient implementations of synchronous SGD and all-reduce communications on Spark. "	efficiency	green	1	0
+"BigDL can efficiently scale out to perform data analytics at ""Big Data scale"", by leveraging Apache Spark (a lightning fast distributed data processing framework), as well as efficient implementations of synchronous SGD and all-reduce communications on Spark. "	efficiency	green	1	0
+"BigDL can efficiently scale out to perform data analytics at ""Big Data scale"", by leveraging Apache Spark (a lightning fast distributed data processing framework), as well as efficient implementations of synchronous SGD and all-reduce communications on Spark. "	efficiency	green	1	0
+"BigDL can efficiently scale out to perform data analytics at ""Big Data scale"", by leveraging Apache Spark (a lightning fast distributed data processing framework), as well as efficient implementations of synchronous SGD and all-reduce communications on Spark. "	efficiency	green	1	0
+"BigDL can efficiently scale out to perform data analytics at ""Big Data scale"", by leveraging Apache Spark (a lightning fast distributed data processing framework), as well as efficient implementations of synchronous SGD and all-reduce communications on Spark. "	efficiency	green	1	0
+The focus of Performance Testing is checking a software program's efficiency. 	efficiency	green	0	0
+Massively Scalable - designed to ingest many millions of entities. 	efficiency	green	0	0
+If a query searches multiple fields, create a compound index. Scanning an index is much faster than scanning a collection.  	efficiency	green	0	0
+The successful design and evaluation of such optimization techniques is invariably tied to a broad and accurate set of rich tools that are available for conducting these studies 	efficiency	green	0	0
+Lightning Network is a second layer protocol built on top of bitcoin to address scalability, privacy, confirmation time and many other issues. 	efficiency	green	0	1
+A 64 git application on a 64 bit version can be even more inefficient. 	efficiency	green	0	1
+CPU interrupts per second - is the avg. number of hardware interrupts a processor is receiving and processing each second. 	efficiency	green	0	1
+In this post, Lambda Labs discusses the Deep Learning performance compared with other GPUs. 	efficiency	green	0	1
