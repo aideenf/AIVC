@@ -1,5 +1,0 @@
-text	provenance	convention	old	new
-The distributed nature of the Domain Name System allows it to work efficiently, serving billions of hosts on the worldwide Internet. 	efficiency	civic	1	1
-We are working on adding code to this repository which will allow much larger effective batch sizes to be used on the GPU. 	efficiency	civic	1	1
-Remove unnecessary code or code that goes to redundant processing. 	efficiency	civic	1	1
-Each dataset is represented by a directory containing the same image data in several resolutions to enable efficient streaming. 	efficiency	civic	1	1
