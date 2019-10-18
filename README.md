@@ -1,5 +1,4 @@
-# AIVC
-![](https://img.shields.io/github/last-commit/aideenf/AIVC) ![](https://img.shields.io/github/languages/code-size/aideenf/AIVC)![](https://img.shields.io/github/languages/top/aideenf/AIVC) ![](https://img.shields.io/github/contributors/aideenf/aivc)
+# AIVC ![](https://img.shields.io/github/last-commit/aideenf/AIVC) ![](https://img.shields.io/github/languages/code-size/aideenf/AIVC)![](https://img.shields.io/github/languages/top/aideenf/AIVC) ![](https://img.shields.io/github/contributors/aideenf/aivc)
 
 # Launch Active Learning Tool: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aideenf/AIVC/master?filepath=%2Fcp_wssc%2FRun_Audit_Tool.ipynb)
 
