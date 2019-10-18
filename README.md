@@ -1,7 +1,6 @@
 # AIVC
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+![](https://img.shields.io/github/stars/aideenf/aivc.md.svg) ![](https://img.shields.io/github/forks/aideenf/aivc.md.svg) ![](https://img.shields.io/github/tag/aideenf/aivc.md.svg) ![](https://img.shields.io/github/release/aideenf/aivc.md.svg) ![](https://img.shields.io/github/issues/aideenf/aivc.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 H2 Header (Launch Audit Tool:)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aideenf/AIVC/master?filepath=%2Fcp_wssc%2FRun_Audit_Tool.ipynb)
