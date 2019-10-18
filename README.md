@@ -1,13 +1,13 @@
 # AIVC
 ![](https://img.shields.io/github/last-commit/aideenf/AIVC) ![](https://img.shields.io/github/languages/code-size/aideenf/AIVC)![](https://img.shields.io/github/languages/top/aideenf/AIVC) ![](https://img.shields.io/github/contributors/aideenf/aivc)
 
-#H1 Launch Audit Tool: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aideenf/AIVC/master?filepath=%2Fcp_wssc%2FRun_Audit_Tool.ipynb)
+# Launch Active Learning Tool: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aideenf/AIVC/master?filepath=%2Fcp_wssc%2FRun_Audit_Tool.ipynb)
 
-H2 Header (Overview of Active learning Flow)
+# Overview of Active learning Flow
 ![Image description](https://github.com/aideenf/AIVC/blob/master/cp_wssc/Drawings/Active_learning.png)
 
 
-H2 Header (Overview of System:)
+# Overview of System:
 ![Image description](https://github.com/aideenf/AIVC/blob/master/cp_wssc/Drawings/models.png)
 
 
