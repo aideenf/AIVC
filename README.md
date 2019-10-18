@@ -7,4 +7,6 @@ Overview of Active learning Flow
 
 
 Overview of System:
-![Image description](https://github.com/aideenf/AIVC/blob/master/cp_wssc/Drawings/model.png)
+![Image description](https://github.com/aideenf/AIVC/blob/master/cp_wssc/Drawings/models.png)
+
+Markdown created using https://pandao.github.io/editor.md/en.html
