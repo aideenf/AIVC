@@ -6,7 +6,7 @@
 ![Image description](https://github.com/aideenf/AIVC/blob/master/cp_wssc/Drawings/Active_learning.png)
 
 
-# Overview of System:
+# Overview of Classification System:
 ![Image description](https://github.com/aideenf/AIVC/blob/master/cp_wssc/Drawings/models.png)
 
 
