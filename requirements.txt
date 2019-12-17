@@ -19,5 +19,4 @@ cloudpickle
 pillow
 spacy
 swifter
-urllib
 requests
