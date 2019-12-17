@@ -19,3 +19,4 @@ cloudpickle
 pillow
 spacy
 swifter
+json
