@@ -17,3 +17,5 @@ ipywidgets
 PyGithub
 cloudpickle
 pillow
+spacy
+swifter
