@@ -1,31 +1,31 @@
 	text	provenance	civic	domestic	green	industrial	inspired	market	project	renown
-0	() can you help me restore my purchase?	Manually_gathered	0	0	0	0	0	1	0	0
-1	() why do i get \'the item you requested is not available for purchase\'?	Manually_gathered	0	0	0	0	0	1	0	0
-2	(in fact textgenrnn learns so well that you have to increase the temperature significantly for creative output!	Manually_gathered	0	0	0	0	1	0	0	0
-3	(including but not limited to procurement of substitute goods or services	Manually_gathered	0	0	0	0	0	1	0	0
-4	(of course if this repository has been compromised you can\'t trust these instructions.	Manually_gathered	0	1	0	0	0	0	0	0
+0	can you help me restore my purchase?	Manually_gathered	0	0	0	0	0	1	0	0
+1	why do i get the item you requested is not available for purchase'?	Manually_gathered	0	0	0	0	0	1	0	0
+2	in fact textgenrnn learns so well that you have to increase the temperature significantly for creative output!	Manually_gathered	0	0	0	0	1	0	0	0
+3	including but not limited to procurement of substitute goods or services	Manually_gathered	0	0	0	0	0	1	0	0
+4	of course if this repository has been compromised you can't trust these instructions.	Manually_gathered	0	1	0	0	0	0	0	0
 5	(relationships} reproduce give birth train invite give receive return recummmd thank respect.	Manually_gathered	0	1	0	0	0	0	0	0
 6	(untested) the following is based on a standard ubuntu image provided by `dreamhost` but should work on any linux distribution without docker installed and running under non root user (e.g.	Manually_gathered	0	0	0	1	0	0	0	0
-7	) How can we become expert in a specific of Machine Learning?	Manually_gathered	0	0	0	1	0	0	0	0
-8	) how can we become expert in a specific of machine learning?	Manually_gathered	0	0	0	1	0	0	0	0
-9	) performance benchmarking	Manually_gathered	0	0	0	1	0	0	0	0
-10	+ This is an easter egg concerned with the community\'s feelings on this issue.	Manually_gathered	1	0	0	0	0	0	0	0
-11	... one must do everything one can to make sure that naturalness results from a good upbringing.	Manually_gathered	0	1	0	0	0	0	0	0
-12	..: added benchmarking bug fixing thanks to dr emann	Manually_gathered	0	0	0	1	0	0	0	0
-13	: unlike other libraries and tools which either give a nice output or fail miserably (with no in between) camelot gives you the power to tweak table extraction.	Manually_gathered	0	0	0	1	0	0	0	0
-14	<h align=center>open source application designed to load test applications and measure performance.	Manually_gathered	0	0	0	1	0	0	0	0
-15	<model test> people cannot be judged on the basis of a single project because their status reveals itself in the model test and this as we already know is the transition from one project to the next.	Manually_gathered	0	0	0	0	0	0	1	0
-16	<model tests> are just as necessary for fulfilling the requirements of justice and for their inscription in the fabric of everyday relations.	Manually_gathered	0	0	0	0	0	0	1	0
-17	>  some justified output	Manually_gathered	0	0	0	1	0	0	0	0
-18	> That the activation verification mechanism is designed specifically to rely on unique device identifiers that are associated with payment information at purchase and actively associated on a continuing basis by Apple for every Apple hosted service that the device interacts with (Apple ID based services softwareupdate iMessage FaceTime etc.)	Manually_gathered	0	0	0	0	0	1	0	0
-19	> The introduction of these coprocessors to Mac devices while increasing security in many ways brings with it all the issues with iOS discussed above and means that running mac devices securely with complete user control and without forced network interaction with the Apple mothership in highly sensitive corporate and other environments problematic and risky.	Manually_gathered	0	0	0	1	0	0	0	0
-20	> asgi is going to enable all sorts of new high performance web services.	Manually_gathered	0	0	0	1	0	0	0	0
-21	> iOS has from the start been designed with very little end user control with no way for end users to configure devices according to their wishes while maintaining security and relies heavily on new closed source code.	Manually_gathered	0	0	0	1	0	0	0	0
-22	> prophet is a python microframework for financial markets.	Manually_gathered	0	0	0	0	0	1	0	0
-23	> technical analysis of financial market data.	Manually_gathered	0	0	0	0	0	1	0	0
-24	> this functionality exists because the android studio default logcat view only shows the output for the	Manually_gathered	0	0	0	1	0	0	0	0
-25	>>> ord(\'e\')  latin \'e\' as used in english and typed using standard keyboard	Manually_gathered	0	0	0	1	0	0	0	0
-26	>written by three experts in the field deep learning is the only comprehensive book on the subject.	Manually_gathered	0	0	0	1	0	0	0	0
+7	How can we become expert in a specific of Machine Learning?	Manually_gathered	0	0	0	1	0	0	0	0
+8	how can we become expert in a specific of machine learning?	Manually_gathered	0	0	0	1	0	0	0	0
+9	performance benchmarking	Manually_gathered	0	0	0	1	0	0	0	0
+10	This is an easter egg concerned with the community's feelings on this issue.	Manually_gathered	1	0	0	0	0	0	0	0
+11	one must do everything one can to make sure that naturalness results from a good upbringing.	Manually_gathered	0	1	0	0	0	0	0	0
+12	added benchmarking bug fixing thanks to dr emann	Manually_gathered	0	0	0	1	0	0	0	0
+13	unlike other libraries and tools which either give a nice output or fail miserably (with no in between) camelot gives you the power to tweak table extraction.	Manually_gathered	0	0	0	1	0	0	0	0
+14	open source application designed to load test applications and measure performance.	Manually_gathered	0	0	0	1	0	0	0	0
+15	people cannot be judged on the basis of a single project because their status reveals itself in the model test and this as we already know is the transition from one project to the next.	Manually_gathered	0	0	0	0	0	0	1	0
+16	are just as necessary for fulfilling the requirements of justice and for their inscription in the fabric of everyday relations.	Manually_gathered	0	0	0	0	0	0	1	0
+17	some justified output	Manually_gathered	0	0	0	1	0	0	0	0
+18	That the activation verification mechanism is designed specifically to rely on unique device identifiers that are associated with payment information at purchase and actively associated on a continuing basis by Apple for every Apple hosted service that the device interacts with (Apple ID based services softwareupdate iMessage FaceTime etc.)	Manually_gathered	0	0	0	0	0	1	0	0
+19	The introduction of these coprocessors to Mac devices while increasing security in many ways brings with it all the issues with iOS discussed above and means that running mac devices securely with complete user control and without forced network interaction with the Apple mothership in highly sensitive corporate and other environments problematic and risky.	Manually_gathered	0	0	0	1	0	0	0	0
+20	asgi is going to enable all sorts of new high performance web services.	Manually_gathered	0	0	0	1	0	0	0	0
+21	iOS has from the start been designed with very little end user control with no way for end users to configure devices according to their wishes while maintaining security and relies heavily on new closed source code.	Manually_gathered	0	0	0	1	0	0	0	0
+22	prophet is a python microframework for financial markets.	Manually_gathered	0	0	0	0	0	1	0	0
+23	technical analysis of financial market data.	Manually_gathered	0	0	0	0	0	1	0	0
+24	this functionality exists because the android studio default logcat view only shows the output for the	Manually_gathered	0	0	0	1	0	0	0	0
+25	latin 'e' as used in english and typed using standard keyboard	Manually_gathered	0	0	0	1	0	0	0	0
+26	written by three experts in the field deep learning is the only comprehensive book on the subject.	Manually_gathered	0	0	0	1	0	0	0	0
 27	A collection of the most active internet archiving communities and initiatives.	Manually_gathered	0	0	0	0	0	0	1	0
 28	Accepts both standard text and numeric logging values.	Manually_gathered	0	0	0	1	0	0	0	0
 29	Additionally you can modify SAM to integrate it with other frameworks and deployment providers from the community for building serverless applications.	Manually_gathered	1	0	0	0	0	0	0	0
@@ -34,7 +34,7 @@
 32	And finally there is no reliable tool to properly resolve dependencies in Python so I started `poetry`	Manually_gathered	0	0	0	1	0	0	0	0
 33	Arkansas Gets Permission To Enforce Voter ID Law In Primaries. The state's Supreme Court gave election authorities the green light after a lower court had blocked the law.	Manually_gathered	0	0	0	0	0	0	0	0
 34	Chrome has the largest share of global usage and is the preferred target platform for the majority of developers.	Manually_gathered	1	0	0	0	0	0	0	0
-35	Chrome\'s vast user base makes it the most attractive target for threat actors and security researchers.	Manually_gathered	0	0	0	0	0	0	0	1
+35	Chrome's vast user base makes it the most attractive target for threat actors and security researchers.	Manually_gathered	0	0	0	0	0	0	0	1
 36	Each line will contain output for each sample columns are the	Manually_gathered	0	0	0	1	0	0	0	0
 37	Earth Day: How to Spin Toward a Healthier Greener PlanetEach one of us has an important role to play in protecting planet Earth and safeguarding human health. Collaboration is urgently needed across governments NGOs businesses communities and individuals to ensure a healthier planet and a greener cleaner world.	Manually_gathered	0	0	1	0	0	0	0	0
 38	Edit a Java file from your project.	Manually_gathered	0	0	0	0	0	0	1	0
@@ -53,7 +53,7 @@
 51	How is the model performance measured?	Manually_gathered	0	0	0	1	0	0	0	0
 52	If in doubt you can simply include a source that mentions the legitimate purchase of content.	Manually_gathered	0	0	0	0	0	1	0	0
 53	If you use this toolbox or benchmark in your research please cite this project.	Manually_gathered	0	0	0	1	0	0	0	0
-54	If you\'re feeling confident use	Manually_gathered	0	0	0	0	1	0	0	0
+54	If you're feeling confident use	Manually_gathered	0	0	0	0	1	0	0	0
 55	In activation processes after first boot just as with first boot a long list of highly sensitive metadata are sent hashed (note hashing does not give you any privacy from Apple here since they link this exact metadata to payment information at purchase) to Apple so it can return the personalized response required for secure boot to complete.	Manually_gathered	0	0	0	0	0	1	0	0
 56	In every action I strive to educate and facilitate ways that will tear down the industrial agricultural chemical complex and replace it with a sustainable organic future.	Manually_gathered	0	0	1	0	0	0	0	0
 57	In some extent the difference of performance is not so big.	Manually_gathered	0	0	0	1	0	0	0	0
@@ -62,7 +62,7 @@
 60	Initially conceived by the network engineering team at	Manually_gathered	0	0	0	1	0	0	0	0
 61	Is the Economy Commanding You to Remodel Your Kitchen?For those who've put off home improvement projects like a kitchen remodel because of the recession key economic indicators are saying the time is right to start them.	Manually_gathered	0	0	0	0	0	1	0	0
 62	It aims to cover both traditional and core NLP tasks such as dependency parsing and part of speech tagging	Manually_gathered	0	1	0	0	0	0	0	0
-63	It doesn\xe\x\xt include any personal information and it\xe\x\xs used to measure the effectiveness of a promotional campaign.	Manually_gathered	0	0	0	1	0	0	0	0
+63	It doesn't include any personal information and it's used to measure the effectiveness of a promotional campaign.	Manually_gathered	0	0	0	1	0	0	0	0
 64	It excels at transforming transactional and relational datasets into feature matrices for machine learning using reusable feature engineering primitives.	Manually_gathered	0	0	0	1	0	0	0	0
 65	It first use one layer MLP to get uit hidden representation of the sentence then measure the importance of the word as the similarity of uit with a word level context vector uw and get a normalized importance through a softmax function.	Manually_gathered	0	0	0	1	0	0	0	0
 66	It provides a high level interface for drawing attractive statistical graphics.	Manually_gathered	0	0	0	0	0	0	0	1
@@ -77,7 +77,7 @@
 75	Note that for clangd to have some of the above mentioned functionality you need	Manually_gathered	0	0	0	1	0	0	0	0
 76	Pacific nations made a landmark declaration calling for the full phase out of greenhouse gas pollution acknowledging that current efforts to tackle climate change are insufficient.	Manually_gathered	0	0	1	0	0	0	0	0
 77	Petetin’s reference to the indian orientation to nature points to the important overlap between the native political and moral viewpoint which emphasizes the integration and dependency of humans with non human entities and the viewpoint of modern environmental politics which emphasizes this dependency also.	Manually_gathered	0	0	1	0	0	0	0	0
-78	Photon\'s smart thread management & refined logic gives you top notch performance.	Manually_gathered	0	0	0	1	0	0	0	0
+78	Photon's smart thread management & refined logic gives you top notch performance.	Manually_gathered	0	0	0	1	0	0	0	0
 79	Powerful helper functions to train any TensorFlow graph with support of multiple inputs outputs and optimizers.	Manually_gathered	0	0	0	1	0	0	0	0
 80	Secondly we will do max pooling for the output of convolutional operation.	Manually_gathered	0	0	0	1	0	0	0	0
 81	Should you encounter any bugs glitches lack of functionality or	Manually_gathered	0	0	0	1	0	0	0	0
@@ -103,7 +103,7 @@
 101	This allows ease of use for novices and flexibility for experts.	Manually_gathered	0	0	0	1	0	0	1	0
 102	This document aims to track the progress in Natural Language Processing (NLP) and give an overview	Manually_gathered	0	0	0	1	0	0	0	0
 103	This functionality requires the	Manually_gathered	0	0	0	1	0	0	0	0
-104	This guide is targeted to \xe\x\xcpower users\xe\x\xd who wish to adopt enterprise standard security but is also suitable for novice users with an interest in improving their privacy and security on a Mac.	Manually_gathered	0	0	0	1	0	0	0	0
+104	This guide is targeted to power users who wish to adopt enterprise standard security but is also suitable for novice users with an interest in improving their privacy and security on a Mac.	Manually_gathered	0	0	0	1	0	0	0	0
 105	This project includes algorithms focused on Bayes theorem neural networks SVMs Matrices etc...	Manually_gathered	0	0	0	0	0	0	1	0
 106	This will exercise both the unit tests and docstring examples (using `pytest`).	Manually_gathered	0	0	0	1	0	0	0	0
 107	Training progress will be displayed in the console but TensorBoard can also be used.	Manually_gathered	0	0	0	1	0	0	0	0
@@ -114,35 +114,35 @@
 112	We built an automatic benchmarking system based on `scikit learn` that covers classifiers (but no deep learning) with different parameters.	Manually_gathered	0	0	0	1	0	0	0	0
 113	We decompose the detection framework into different components and one can easily construct a customized object detection framework by combining different modules.	Manually_gathered	0	0	0	0	0	1	0	0
 114	We designed ElastAlert to be reliable highly modular and easy to set up and configure.	Manually_gathered	0	0	0	1	0	0	0	0
-115	We\'re working on improving that experience or providing alternatives that give more fine tuned control.	Manually_gathered	0	0	0	1	0	0	0	0
-116	We\xe\x\xd like to make it easy for anyone to use the ERPNext name or logo for community oriented efforts that help spread and improve ERPNext.	Manually_gathered	1	0	0	0	0	0	0	0
+115	We're working on improving that experience or providing alternatives that give more fine tuned control.	Manually_gathered	0	0	0	1	0	0	0	0
+116	We'd like to make it easy for anyone to use the ERPNext name or logo for community oriented efforts that help spread and improve ERPNext.	Manually_gathered	1	0	0	0	0	0	0	0
 117	What is particularly worrying about this process is that it is a network linked secure boot process where centralized external servers have the power to dictate what the device should boot.	Manually_gathered	0	0	0	1	0	0	0	0
 118	Whether you want learn which organizations are the big players in the web archiving space want to find a specific open source tool for your web archiving need or just want to see where archivists hang out online our Community Wiki page serves as an index of the broader web archiving community.	Manually_gathered	1	0	0	0	0	0	0	0
 119	Wi Fi Diagnostics) will require root privileges for full functionality.	Manually_gathered	0	0	0	1	0	0	0	0
 120	Will I be able to use pixcode for my own frontend projects?	Manually_gathered	0	0	0	0	0	0	1	0
 121	Windows community supported	Manually_gathered	1	0	0	0	0	0	0	0
-122	You are welcome to submit your benchmark simply create a new issue and we\'ll list your results here.	Manually_gathered	0	0	0	1	0	0	0	0
+122	You are welcome to submit your benchmark simply create a new issue and we'll list your results here.	Manually_gathered	0	0	0	1	0	0	0	0
 123	You can use Gitter to communicate with people who are also interested in Auto Keras.	Manually_gathered	0	0	0	0	0	0	1	0
 124	You can use your Google account to sign to your Chrome customized settings from other devices while retaining your the security of your passwords.	Manually_gathered	0	0	0	0	0	1	0	0
-125	You don\'t have to be a machine learning expert to add recommendations object detection image classification image similarity or activity classification to your app.	Manually_gathered	0	0	0	1	0	0	0	0
+125	You don't have to be a machine learning expert to add recommendations object detection image classification image similarity or activity classification to your app.	Manually_gathered	0	0	0	1	0	0	0	0
 126	Zappa does not intend to conform to PEP isolate your commits so that changes to functionality with changes made by your linter.	Manually_gathered	0	0	0	1	0	0	0	0
-127	\' our \'deep desire for autonomy and self reliance is combined with an equally deep conviction that life has no meaning unless shared with others in the context of community\' (waterman ).	Manually_gathered	0	0	0	0	0	0	1	0
-128	\'in place of the traditional contract which guaranteed security promotion and development it is now appropriate to make an agreement that creates a sense of belonging which helps the individual to maintain his employability or the value of his labour and which exploits the various opportunities to learn while at work\' (aubrey ).	Manually_gathered	0	0	0	0	0	0	1	0
-129	\'path\' has a very attractive menu sitting on the left bottom corner of the screen.	Manually_gathered	0	0	0	0	0	0	0	1
-130	\'simultaneous development of all the categories in the portfolio\' is therefore indicated: \'thanks to the multiplicity of clients work for fees offers a certain guarantee of activity.	Manually_gathered	0	0	0	0	0	0	1	0
-131	\'the calm desire for wealth\' as albert hirschman writes in the passions and the interest (hirschman ) quoting francis hutcheson allows the construction of a harmonious order which transcends the confusion of individual interests.	Manually_gathered	0	0	0	0	0	1	0	0
-132	\'the image of the chameleon is a tempting one for describing the pro who knows how to conduct his relationships in order to reach other people more easily \' adaptability is the key to the network spirit (efforts have to be made to take the first step) (bellenger ).	Manually_gathered	0	0	0	0	0	0	1	0
-133	\'the informal network is the preferred organizational mode of writers scientific researchers and musicians who develop in domains where knowledge is highly specialized creative and personalized\' (aubrey ).	Manually_gathered	0	0	0	0	0	0	1	0
-134	\'tomorrow\'s manager must ensure that information is shared that it irrigates the firm thoroughly\' (le saget ).	Manually_gathered	0	0	0	0	0	0	1	0
-135	\t vendor: canon inc.	Manually_gathered	0	0	0	0	0	1	0	0
-136	\t vendor: edimax technology co. ltd.	Manually_gathered	0	0	0	0	0	1	0	0
-137	\t vendor: hon hai precision ind.	Manually_gathered	0	0	0	0	0	1	0	0
-138	\t vendor: samsung electro mechanics(thailand)	Manually_gathered	0	0	0	0	0	1	0	0
-139	\t vendor: shenzhen ogemray technology co. ltd.	Manually_gathered	0	0	0	0	0	1	0	0
-140	\t vendor: sony corporation	Manually_gathered	0	0	0	0	0	1	0	0
-141	__link a list__ with customer information to another with order history even without unique customer ids	Manually_gathered	0	0	0	0	0	1	0	0
-142	_a logical reasonably standardized but flexible project structure for doing and sharing data science work._	Manually_gathered	0	0	0	1	0	0	0	0
-143	_parlaidialogteacher_: a teacher that implements a simple standard text format for many tasks (non visual tasks only)	Manually_gathered	0	0	0	1	0	0	0	0
+127	'our' deep desire for autonomy and self reliance is combined with an equally deep conviction that life has no meaning unless shared with others in the context of community\' (waterman ).	Manually_gathered	0	0	0	0	0	0	1	0
+128	in place of the traditional contract which guaranteed security promotion and development it is now appropriate to make an agreement that creates a sense of belonging which helps the individual to maintain his employability or the value of his labour and which exploits the various opportunities to learn while at work\' (aubrey ).	Manually_gathered	0	0	0	0	0	0	1	0
+129	'path' has a very attractive menu sitting on the left bottom corner of the screen.	Manually_gathered	0	0	0	0	0	0	0	1
+130	'simultaneous development of all the categories in the portfolio' is therefore indicated: 'thanks to the multiplicity of clients work for fees offers a certain guarantee of activity.	Manually_gathered	0	0	0	0	0	0	1	0
+131	'the calm desire for wealth' as albert hirschman writes in the passions and the interest (hirschman ) quoting francis hutcheson allows the construction of a harmonious order which transcends the confusion of individual interests.	Manually_gathered	0	0	0	0	0	1	0	0
+132	'the image of the chameleon is a tempting one for describing the pro who knows how to conduct his relationships in order to reach other people more easily \' adaptability is the key to the network spirit (efforts have to be made to take the first step) (bellenger ).	Manually_gathered	0	0	0	0	0	0	1	0
+133	'the informal network is the preferred organizational mode of writers scientific researchers and musicians who develop in domains where knowledge is highly specialized creative and personalized\' (aubrey ).	Manually_gathered	0	0	0	0	0	0	1	0
+134	'tomorrow's manager must ensure that information is shared that it irrigates the firm thoroughly\' (le saget ).	Manually_gathered	0	0	0	0	0	0	1	0
+135	vendor: canon inc.	Manually_gathered	0	0	0	0	0	1	0	0
+136	vendor: edimax technology co. ltd.	Manually_gathered	0	0	0	0	0	1	0	0
+137	vendor: hon hai precision ind.	Manually_gathered	0	0	0	0	0	1	0	0
+138	vendor: samsung electro mechanics(thailand)	Manually_gathered	0	0	0	0	0	1	0	0
+139	vendor: shenzhen ogemray technology co. ltd.	Manually_gathered	0	0	0	0	0	1	0	0
+140	vendor: sony corporation	Manually_gathered	0	0	0	0	0	1	0	0
+141	link a list with customer information to another with order history even without unique customer ids	Manually_gathered	0	0	0	0	0	1	0	0
+142	a logical reasonably standardized but flexible project structure for doing and sharing data science work._	Manually_gathered	0	0	0	1	0	0	0	0
+143	a teacher that implements a simple standard text format for many tasks (non visual tasks only)	Manually_gathered	0	0	0	1	0	0	0	0
 144	` keepall`: use this flag when training if when testing you want to see the predictions at different steps (it can be interesting to see the program changes its name and age as the training progress).	Manually_gathered	0	0	0	1	0	0	0	0
 145	` world` set the max channel to. in n. america the max channel standard is  but the rest of the world uses channels so use this option if you\'re not in n. america	Manually_gathered	0	0	0	1	0	0	0	0
 146	`benchmark`: quickly iterate through the resolutions to measure the raw training performance.	Manually_gathered	0	0	0	1	0	0	0	0
@@ -198,13 +198,13 @@
 196	after training is finished you can test and validate with:	Manually_gathered	0	0	0	1	0	0	0	0
 197	again the denunciations of these renown tactics also reveal the significance of public attention in contributing to the fate of the project.	Manually_gathered	0	0	0	0	0	0	0	1
 198	agent : gather performance information and send to the server	Manually_gathered	0	0	0	1	0	0	0	0
-199	alibaba cloud schedulerx\xef\xbc\xaaccurate highly reliable and highly available scheduled job scheduling services with response time within seconds.	Manually_gathered	0	0	0	1	0	0	0	0
-200	alibaba cloud sms\xef\xbc\xa a messaging service that covers the globe alibaba sms provides convenient efficient and intelligent communication capabilities that help businesses quickly contact their customers.	Manually_gathered	0	0	0	0	0	1	0	0
+199	alibaba cloud scheduler, accurate highly reliable and highly available scheduled job scheduling services with response time within seconds.	Manually_gathered	0	0	0	1	0	0	0	0
+200	alibaba cloud sms, a messaging service that covers the globe alibaba sms provides convenient efficient and intelligent communication capabilities that help businesses quickly contact their customers.	Manually_gathered	0	0	0	0	0	1	0	0
 201	all beings and all societies have their networks and we normally think of them as the informal pathways along which information and influences flow: feminists complain about an \'old boys\' network\'.	Manually_gathered	0	0	0	0	0	0	1	0
 202	all coincidences are relevant because relationships often tenuous or purely intellectual ones exist among all the elements of our universe.	Manually_gathered	0	0	0	0	1	0	0	0
 203	all files in the directories active_projects and old_projects which by and large generate the visuals for bb videos are copyright bluebrown.	Manually_gathered	0	0	0	0	0	0	1	0
 204	all one has to do is keep a close eye on the press for a month to be persuaded of this: events that mobilize public opinion in a country for several days running are completely forgotten from one day to the next because they have disappeared from the newspapers.	Manually_gathered	0	0	0	0	0	0	0	1
-205	all the instruments of connection <repertoire of objects and mechanisms> new technologies informal relations relations of trust partnership agreements alliances subcontracting networks of firms network firms link loop synapses neurons projects in a world where the principal operation is establishing connections it is thus normal to find a marked presence of new communication technologies based on computer science (internet interfaces etc.).	Manually_gathered	0	0	0	0	0	0	1	0
+205	all the instruments of connection, repertoire of objects and mechanisms new technologies informal relations relations of trust partnership agreements alliances subcontracting networks of firms network firms link loop synapses neurons projects in a world where the principal operation is establishing connections it is thus normal to find a marked presence of new communication technologies based on computer science (internet interfaces etc.).	Manually_gathered	0	0	0	0	0	0	1	0
 206	all the things that support and outfit equivalence in the other worlds such as measures rules money hierarchy and laws are missing here.	Manually_gathered	0	0	0	0	1	0	0	0
 207	all these qualities make them leaders of teams that they manage not in authoritarian fashion but by listening to others with tolerance recognizing and respecting differences.	Manually_gathered	0	0	0	0	0	0	1	0
 208	all unit tests in baselines can be run using pytest runner:	Manually_gathered	0	0	0	1	0	0	0	0
@@ -254,10 +254,10 @@
 252	any kind of act activity or business that is expected to infringe upon intellectual property rights belonging to other people	Manually_gathered	0	0	0	0	0	1	0	0
 253	any kind of act activity or business that requires any kind of governmental authorization or license to legally occur or exist without previously obtaining such authorization or license	Manually_gathered	0	0	0	0	0	1	1	0
 254	any kind of illegal or criminal act activity or business	Manually_gathered	0	0	0	0	0	1	0	0
-255	anyone is free to copy modify publish use compile sell or\r	Manually_gathered	0	0	0	0	0	1	0	0
+255	anyone is free to copy modify publish use compile sell or	Manually_gathered	0	0	0	0	0	1	0	0
 256	anything can attain the status of a project including ventures hostile to capitalism.	Manually_gathered	0	0	0	0	0	0	1	0
 257	apache curator includes a high level api framework and utilities to make using apache zookeeper much easier and more reliable.	Manually_gathered	0	0	0	1	0	0	0	0
-258	applications that don\'t need or want this level of fault tolerance performance scalability and reliability can instead use debezium\'s embedded connector engine to run a connector directly within the application space.	Manually_gathered	0	0	0	1	0	0	0	0
+258	applications that don't need or want this level of fault tolerance performance scalability and reliability can instead use debezium\'s embedded connector engine to run a connector directly within the application space.	Manually_gathered	0	0	0	1	0	0	0	0
 259	appraisal is positive in the case of those who having enhanced their reputation in the course of the project they are leaving succeed in integrating themselves into a new one.	Manually_gathered	0	0	0	0	0	0	1	0
 260	architecture to deliver fail safe reliability and performance.	Manually_gathered	0	0	0	1	0	0	0	0
 261	architectures sgd with scheduling will generally lead to better performance if	Manually_gathered	0	0	0	1	0	0	0	0
@@ -272,17 +272,17 @@
 270	as a result cqrs applications are usually more complicated especially when they need to ensure reliable and totally ordered processing.	Manually_gathered	0	0	0	1	0	0	0	0
 271	as a result every act aimed at public opinion has to be carried out in relation to the least sophisticated sector which implies that the same information must also be delivered to the most sophisticated sector.	Manually_gathered	0	0	0	0	0	0	0	1
 272	as a result they fail to generate diverse outputs from a given source domain image.	Manually_gathered	0	0	0	1	0	0	0	0
-273	as bellenger () develops the point he possesses \'a strategy for conducting relationships a kind of self monitoring that results in an aptitude for producing signs which can facilitate contacts\'.	Manually_gathered	0	0	0	0	0	0	1	0
+273	as bellenger develops the point he possesses a strategy for conducting relationships a kind of self monitoring that results in an aptitude for producing signs which can facilitate contacts.	Manually_gathered	0	0	0	0	0	0	1	0
 274	as for the market world it is not animated exclusively by business relations between buyers and sellers.	Manually_gathered	0	0	0	0	0	1	0	0
 275	as instruments for the worth of fame objects that represent compromises with the industrial and civic worlds may be used for example public opinion surveys by means of an industrial apparatus these supply a yardstick for opinion or for the penetration of a message that is the fraction expressed in terms of the percentage of a population reached by a given medium.	Manually_gathered	0	0	0	0	0	0	0	1
 276	as mentioned before there are two different ways to measure the interpolted average precision:  point interpolation and interpolating all points.	Manually_gathered	0	0	0	1	0	0	0	0
-277	as the apache airflow community grows we\'d like to keep track of who is using	Manually_gathered	1	0	0	0	0	0	0	0
+277	as the apache airflow community grows we'd like to keep track of who is using.	Manually_gathered	1	0	0	0	0	0	0	0
 278	as the cornerstone of many enterprises relational database still takes a huge market share.	Manually_gathered	0	0	0	0	0	1	0	0
 279	ask for a meeting with her while respecting the ground rules (company policies hierarchical order).	Manually_gathered	0	1	0	0	0	0	0	0
 280	at a further level some environmental evaluations depart from the political and moral requirements which are shared by all orders of worth where common humanity is the group of reference for the evaluation and propose an extension of the community of reference to include non human entities (a move to ecocentrism rather than anthropocentrism).	Manually_gathered	0	0	1	0	0	0	0	0
 281	at an annual sales convention the president of a dog food company summed up the situation this way: \'over the past few days \' he began \'we\'ve heard from all our division heads and of their wonderful plans for the coming year. if we have the best advertising the best marketing the best sales force how come we sell less goddamn dog food than anyone else in the business?\' absolute silence filled the convention hall. finally after what seemed like forever a small voice answered from the back of the room: \'because the dogs hate it\' ().	Manually_gathered	0	0	0	0	0	1	0	0
 282	at ease where he finds himself he also knows how to be local.	Manually_gathered	0	0	0	0	0	0	1	0
-283	at present uetool provides functionality as follows:	Manually_gathered	0	0	0	1	0	0	0	0
+283	at present uetool provides functionality as follows.	Manually_gathered	0	0	0	1	0	0	0	0
 284	at the end of this harmonious process of composition the persons doing business find their worth naturally in relation to the object negotiated.	Manually_gathered	0	0	0	0	0	1	0	0
 285	at the root of your project with the following contents:	Manually_gathered	0	0	0	0	0	0	1	0
 286	at the time i had no idea what i was doing but for better or worse i made a habit of not copying classes but writing the code out myself.	Manually_gathered	0	1	0	0	0	0	0	0
@@ -290,16 +290,16 @@
 288	attracting the attention and influencing the opinion of politicians is another area of comparative difference.	Manually_gathered	0	0	0	0	0	0	0	1
 289	audience of django shop users	Manually_gathered	0	0	0	0	0	0	0	1
 290	availability improved performance scalability and fault tolerance.	Manually_gathered	0	0	0	1	0	0	0	0
-291	b' stash shell like an expert in pythonista	Manually_gathered	0	0	0	1	0	0	0	0
-292	b' tracking progress in natural language processing	Manually_gathered	0	0	0	1	0	0	0	0
-293	b'pulsar is a highly scalable and reliable event driven data pipeline for real time analytics.	Manually_gathered	0	0	0	1	0	0	0	0
+291	stash shell like an expert in pythonista	Manually_gathered	0	0	0	1	0	0	0	0
+292	tracking progress in natural language processing	Manually_gathered	0	0	0	1	0	0	0	0
+293	pulsar is a highly scalable and reliable event driven data pipeline for real time analytics.	Manually_gathered	0	0	0	1	0	0	0	0
 294	be sure that you understand and are complying with the csploit licenses and laws in your area.	Manually_gathered	1	0	0	0	0	0	0	0
 295	be used to run different kinds of native tests.	Manually_gathered	0	0	0	1	0	0	0	0
 296	because of performance issue those queue is processed in separate thread this is required due to blocking nature of all above operations.	Manually_gathered	0	0	0	1	0	0	0	0
 297	before using any encryption software please check your country's laws regulations and policies concerning	Manually_gathered	1	0	0	0	0	0	0	0
 298	before using any encryption software please check your country's laws regulations and policies concerning the import possession or use and re export of encryption software to see if this is permitted.	Manually_gathered	1	0	0	0	0	0	0	0
 299	being acquainted with something is equivalent to having heard of it: by virtue of hearing of someone or something in any number of ways the public has the impression even if it is not involved in a consumer relationship that it knows that person or thing.	Manually_gathered	0	0	0	0	0	0	0	1
-300	being called on to participate <expression of judgement and forms of self evidence> inserting causing to participate speaking of avoiding keeping at a distance ignoring rejecting excluding	Manually_gathered	0	0	0	0	0	0	1	0
+300	being called on to participate expression of judgement and forms of self evidence inserting causing to participate speaking of avoiding keeping at a distance ignoring rejecting excluding	Manually_gathered	0	0	0	0	0	0	1	0
 301	being in a business deal that holds together requires persons who meet often face to face to negotiate head to head far from the influence of others they must take one another\'s measure accurately and never underestimate the competition ().	Manually_gathered	0	0	0	0	0	1	0	0
 302	being recognized and identifying (reiation of worth) identification strength.	Manually_gathered	0	0	0	0	0	0	0	1
 303	beings achieve worth only if the presentation is made visible in a transparent space in which it can be looked at and compared.	Manually_gathered	0	0	0	0	0	0	0	1
@@ -329,7 +329,7 @@
 327	but it is as if we had to wait until the last third of the twentieth century for the activity of mediating the art of making and using the most diverse and remote kinds of connection to be autonomized separated from the other forms of activity it had hitherto been bound up with and identified and valued for itself.	Manually_gathered	0	0	0	0	0	0	1	0
 328	but it is the mechanism of representation that expresses the relation of worth in this world in a specific way.	Manually_gathered	1	0	0	0	0	0	0	0
 329	but malicious gossip transmitted in person to person chitchat from mouth to mouth only diminishes the unworthy who lend themselves to it and who by circulating rumors which the worthy refuse to do betray their superiors: if you are not in agreement with your superior and_ if he maintains his position do not criticize him outside .e. to others....	Manually_gathered	0	1	0	0	0	0	0	0
-330	but people\'s attachment to their own particular interests their selfishness and their individualism are such strong tendencies that the creation and maintenance of collectives requires a tireless struggle: a chapter cannot be created from one day to the next.	Manually_gathered	1	0	0	0	0	0	0	0
+330	but people's attachment to their own particular interests their selfishness and their individualism are such strong tendencies that the creation and maintenance of collectives requires a tireless struggle: a chapter cannot be created from one day to the next.	Manually_gathered	1	0	0	0	0	0	0	0
 331	but persons may also identify with objects that have been successful and through these objects with the celebrities who have adopted and displayed them.	Manually_gathered	0	0	0	0	0	0	0	1
 332	but rousseau's sovereign is disembodied.	Manually_gathered	1	0	0	0	0	0	0	0
 333	but since projects are by their very nature temporary the ability to disengage from a project in order to be available for new connections counts as much as the capacity for engagement even at the peak of engagement enthusiasm involvement in a project people at ease in a network world remain \'adaptable physically and intellectually mobile!	Manually_gathered	0	0	0	0	0	0	1	0
@@ -356,9 +356,9 @@
 354	but those who are really respectable know on the other hand how to earn respect.	Manually_gathered	0	1	0	0	0	0	0	0
 355	but we also know that in order to be robust in the face of critiques based on a sense of what is just this specific order must be geared towards the common good and submit to a certain number of constraints.	Manually_gathered	0	0	0	0	0	0	1	0
 356	but when you want to maximize performance you can often use `jit` in your own	Manually_gathered	0	0	0	1	0	0	0	0
-357	buy accuracy:.%	Manually_gathered	0	0	0	0	0	1	0	0
-358	buy and hold :.%	Manually_gathered	0	0	0	0	0	1	0	0
-359	buy it from amazon it is not expensive ($).	Manually_gathered	0	0	0	0	0	1	0	0
+357	buy accuracy.	Manually_gathered	0	0	0	0	0	1	0	0
+358	buy and hold.	Manually_gathered	0	0	0	0	0	1	0	0
+359	buy it from amazon it is not expensive.	Manually_gathered	0	0	0	0	0	1	0	0
 360	buy now and sell at close or sell short now and buy to cover at close.	Manually_gathered	0	0	0	0	0	1	0	0
 361	buythreshold =.  confidence threshold for predicting buy (default =.)	Manually_gathered	0	0	0	0	0	1	0	0
 362	by bringing to light the quality of objects of a market nature and their role in coordination we are preparing to deal with the complex situations in which ambiguous objects disturb this coordination: something scribbled by picasso on the corner of a table a dented tank that does not meet industrial contemporary standards a used car and so on.	Manually_gathered	0	0	0	0	0	1	0	0
@@ -377,7 +377,7 @@
 375	characterization of these projects according to categories that are apposite in other cities (whether familial affective educative artistic religious charitable etc.	Manually_gathered	0	0	0	0	0	0	1	0
 376	chinese word analogy benchmarks	Manually_gathered	0	0	0	1	0	0	0	0
 377	civic worth depends first and foremost on membership.	Manually_gathered	1	0	0	0	0	0	0	0
-378	clean/non polluting renewable recyclable sustainable and in harmony with nature.	Manually_gathered	0	0	1	0	0	0	0	0
+378	clean/non-polluting renewable recyclable sustainable and in harmony with nature.	Manually_gathered	0	0	1	0	0	0	0	0
 379	clearly see how your habits improved over	Manually_gathered	0	1	0	0	0	0	0	0
 380	clip gradients to this norm	Manually_gathered	0	0	0	1	0	0	0	0
 381	clipped_gradients _ = tf.clip_by_global_norm(	Manually_gathered	0	0	0	1	0	0	0	0
@@ -397,7 +397,7 @@
 395	company engineering blogs	Manually_gathered	0	0	0	1	0	0	0	0
 396	competition (higher common principle) rivalry competitors.	Manually_gathered	0	0	0	0	0	1	0	0
 397	compile and test build jars	Manually_gathered	0	0	0	1	0	0	0	0
-398	completion doesn\'t work with the c++ standard library headers	Manually_gathered	0	0	0	1	0	0	0	0
+398	completion doesn't work with the c++ standard library headers	Manually_gathered	0	0	0	1	0	0	0	0
 399	conditional generative adversarial networks (gans) for cross domain image to image translation have made much progress recently.	Manually_gathered	0	0	0	1	0	0	0	0
 400	conductor provides a light weight wrapper around standard android views that does just about everything you\'d want:	Manually_gathered	0	0	0	1	0	0	0	0
 401	configuration management service discovery circuit breakers intelligent routing micro proxy control bus one time tokens global locks leadership election distributed sessions cluster state)	Manually_gathered	1	0	0	0	0	0	0	0
@@ -433,10 +433,10 @@
 431	depending on the case such trust can be founded on situations that were experienced in common in the past on belonging to the same institution on the existence of a common objective or project on relations of friendship or mutual respect even on mere complicity derived from being connected to the same communications network.	Manually_gathered	0	0	0	0	0	0	1	0
 432	deprived of tests protected from the risk of contingencies that can call the order of competencies into question and allow new objects to emerge industrial worth can become frozen in the monumental order that is regularly depicted in critiques of technology. efficiency (higher common principle) perforr umce future efficient reliable not optimal inactive unsuited breakdown (in a state of) unreliable. work (digniy} energy. professionals (subjects) expert specialist person in charge operator. means (objects) tool resource method task space environment axis direction dimension criterion definition list graph chart calendar plan goal quantity variable series average probability standard factor cause progress (invfsiment) investment dynamic. control function (relationships) put to work machinery (liaison of) function (to be a function of) cogwheels interact need (to) condition(to) necessary (relation) integrate organize control stabilize order anticipate implant adapt detect analyze account (take into) determine light (bring to) measure formalize standardize optimize solve process. organization (figures) system. trial (test) launching setting up putting to work achievement. effective (judgment) correct in working order functioning. measure (evidence) instrumental action (the fall) treating people as things. '	Manually_gathered	0	0	0	1	0	0	0	0
 433	describing every accomplishment with a nominal grammar that is the grammar of the project erases the differences between a capitalist project and a humdrum creation (a sunday club).	Manually_gathered	0	0	0	0	0	0	1	0
-434	design amazon\'s sales ranking by category feature	Manually_gathered	0	0	0	0	0	1	0	0
+434	design amazon's sales ranking by category feature	Manually_gathered	0	0	0	0	0	1	0	0
 435	designed for distributing indexing and analyzing the data generated during a security audit.	Manually_gathered	0	0	0	1	0	0	0	0
 436	desirable (state of worthiness) value (of) millionaire winner.	Manually_gathered	0	0	0	0	0	1	0	0
-437	developer community\r	Manually_gathered	1	0	0	0	0	0	0	0
+437	developer community	Manually_gathered	1	0	0	0	0	0	0	0
 438	developers now have greater control over how their applications are deployed across clusters of resources run and scale in production and can take advantage of powerful placement capabilities of amazon ecs.	Manually_gathered	0	0	0	1	0	0	0	0
 439	development project if you need import should `gradle` version is.. => gradle..	Manually_gathered	0	0	0	0	0	0	1	0
 440	different grounds for non engagement identify different types of little person.	Manually_gathered	0	0	0	0	0	0	1	0
@@ -472,7 +472,7 @@
 470	even when they attain recognition they never see in their success the very bases of their work\'s value or of their own.	Manually_gathered	0	0	0	0	1	0	0	0
 471	everything is organized in a fashion that is cohesive to the penetration testing execution standard (ptes) and eliminates a lot of things that are hardly used.	Manually_gathered	0	0	0	1	0	0	0	0
 472	evidence takes the form of an affective state a feeling that is spontaneous involuntary and fleeting its validity demands neither approval from others (as it would in the world of fame) nor the construction of a routine that stabilizes relationships among objects (as it would in the industrial world).	Manually_gathered	0	0	0	0	1	0	0	0
-473	expected result:.% test error rate with.m model params.	Manually_gathered	0	0	0	1	0	0	0	0
+473	expected result:.% test error rate with m model params.	Manually_gathered	0	0	0	1	0	0	0	0
 474	experts also enjoy high status in the projective city because their competence which is indispensable is composed not of standardized knowledge but of personal integrated knowledge.	Manually_gathered	0	0	0	0	0	0	1	0
 475	experts are consulted.	Manually_gathered	0	0	0	0	0	0	1	0
 476	extension of the network thus demands that people renounce friendship or rather that when assessing the quality of a link they abandon the distinction between disinterested bonds of friendship and professional or useful relations: a network is always based on strong interpersonal relations situated beyond work in the strict sense.	Manually_gathered	0	0	0	0	0	0	1	0
@@ -483,7 +483,7 @@
 481	family ceremonies (test) celebration birth death marriage social events conversation distinction nomination.	Manually_gathered	0	1	0	0	0	0	0	0
 482	far from being attached to an occupation or clinging to a qualification the great man proves adaptable and flexible able to switch from one situation to a very different one and adjust to it and versatile capable of changing activity or tools depending on the nature of the relationship entered into with others or with objects it is precisely this adaptability and versatility that make him employable that is to say in the world of firms in a position to attach himself to new projects.	Manually_gathered	0	0	0	0	0	0	1	0
 483	fast & reliable	Manually_gathered	0	0	0	1	0	0	0	0
-484	fate can usually be made to tum out in one\'s favor transformed into good luck if people exploit the situation opportunistically and take advantage of opportunities that arise.	Manually_gathered	0	0	0	0	0	1	0	0
+484	fate can usually be made to tum out in one's favor transformed into good luck if people exploit the situation opportunistically and take advantage of opportunities that arise.	Manually_gathered	0	0	0	0	0	1	0	0
 485	feature engineering (particularly around dates and nlp).	Manually_gathered	0	0	0	1	0	0	0	0
 486	feel free to adapt change ignore or even challenge everything we write!	Manually_gathered	0	0	0	0	0	0	1	0
 487	feel free to ask the author for a business proposal to customize yacy	Manually_gathered	0	0	0	0	0	1	0	0
@@ -539,7 +539,7 @@
 537	full control over queries transaction and object mapping	Manually_gathered	0	0	0	1	0	0	0	0
 538	full power of the python language.	Manually_gathered	0	0	0	1	0	0	0	0
 539	function is a notion that must be understood in a spatial articulation and a temporal liaison as mechanical devices illustrate.	Manually_gathered	0	0	0	1	0	0	0	0
-540	function\xe\x\xs primitive operations for better performance.	Manually_gathered	0	0	0	1	0	0	0	0
+540	function primitive operations for better performance.	Manually_gathered	0	0	0	1	0	0	0	0
 541	functional services	Manually_gathered	0	0	0	1	0	0	0	0
 542	functional updates will be reflected in the rd number of the version for example the next version of.. will be...	Manually_gathered	0	0	0	1	0	0	0	0
 543	functioning in networks also satisfies the highly human characteristic of wanting to be simultaeously free and engaged: \'all of us make commitments.	Manually_gathered	0	0	0	0	0	0	1	0
@@ -553,19 +553,19 @@
 551	genius independent.	Manually_gathered	0	0	0	0	1	0	0	0
 552	geometrical vs topological measures for the evolution of aesthetic maps in a rts game entertainment computing	Manually_gathered	0	0	0	1	0	0	0	0
 553	gitfiti _noun_ : Carefully crafted graffiti in a github commit history calendar.	Manually_gathered	0	1	0	0	0	0	0	0
-554	github didn\'t want to maintain the app anymore so it\'s been released to the community and maintained as a public project.	Manually_gathered	1	0	0	0	0	0	0	0
+554	github didn't want to maintain the app anymore so it's been released to the community and maintained as a public project.	Manually_gathered	1	0	0	0	0	0	0	0
 555	given its weak level of accouterment this world tolerates the existence of internal tests that are minimally objectifiable if at all.	Manually_gathered	0	0	0	0	1	0	0	0
 556	given that links presuppose the engagement of at least two people they must avoid being rejected on the contrary they must attract the attention and sympathy of others interest them.	Manually_gathered	0	0	0	0	0	0	1	0
 557	given that trust and relational qualities are the cement of projects the unemployable ones are those who do not know how to inspire trust or cannot be trusted because they do not deliver what is expected of them or do not circulate the information they possess and are \'out for themselves\' which is a form of dishonesty in their engagement (opportunism).	Manually_gathered	0	0	0	0	0	0	1	0
 558	given that what matters most is intangible impalpable informal a term that characterizes both relations and the rules of the game which are invented as one goes along the most appropriate	Manually_gathered	0	0	0	0	0	0	1	0
 559	giving up secrets (investment) reveal.	Manually_gathered	0	0	0	0	0	0	0	1
-560	go for profit. samuel johnson once said: \'there are few ways in which a man can be more innocently employed than in getting money\'	Manually_gathered	0	0	0	0	0	1	0	0
+560	go for profit. samuel johnson once said: 'there are few ways in which a man can be more innocently employed than in getting money\'	Manually_gathered	0	0	0	0	0	1	0	0
 561	golem is a decentralized marketplace for computing power.	Manually_gathered	0	0	0	1	0	1	0	0
 562	google maps apis premium plan customers can use their client id and secretclientid to authenticate	Manually_gathered	0	0	0	0	0	1	0	0
 563	google\'s neural machine translation system: bridging the gap between human and machine translation.	Manually_gathered	0	0	0	0	0	0	1	0
 564	great men in the projective city are also streamlined in that they are liberated from the burden of their own passions and values: open to differences (unlike rigid absolutist personalities attached to the defence of universal values).	Manually_gathered	0	0	0	0	0	0	1	0
 565	great men in the projective city likewise renounce exercising any form of domination over others by taking advantage of statutory or hierarchical properties that would vouchsafe them ready recognition.	Manually_gathered	0	0	0	0	0	0	1	0
-566	great men past masters when it comes to self monitoring know how to judge \'other people\'s emotional states more lucidly and are perceived in their turn as more friendly open less uneasy less anxious less nervous in their relationships\'.	Manually_gathered	0	0	0	0	0	0	1	0
+566	great men past masters when it comes to self monitoring know how to judge 'other people's emotional states more lucidly and are perceived in their turn as more friendly open less uneasy less anxious less nervous in their relationships\'.	Manually_gathered	0	0	0	0	0	0	1	0
 567	green arguments based on a deep ecology perspective value a healthy environment or the preservation of species not because of their benefits for humanity but for their own sake for the benefit of the integrated ecosystem (which includes humans) itself.	Manually_gathered	0	0	1	0	0	0	0	0
 568	hall of fame of the best individuals that lived in the population	Manually_gathered	0	0	0	0	0	0	0	1
 569	having headquarters indeed constitutes one of the main devices a collective person can use to objectify its existence (see boltanski  ).	Manually_gathered	1	0	0	0	0	0	0	0
@@ -753,7 +753,7 @@
 747	in this sense all the sacrifices that are made have the effect of enhancing the streamlined character of entities of persons but also of things in order to favour their reorganization when the next project comes along.	Manually_gathered	0	0	0	0	0	0	1	0
 748	in this state one grasps the world by way of impressions and feelings through an aura of happiness vertigo fear and trembling for the real world is not directly accessible to the senses.	Manually_gathered	0	0	0	0	1	0	0	0
 749	in this state where they are worthy because they have achieved solidarity individuals are members militants representatives elected officers collectors treasurers secretaries delegates.	Manually_gathered	1	0	0	0	0	0	0	0
-750	in this way \'employability can be guaranteed that is to say a level of skills and flexibility allowing each individual to find a new job inside or outside the firm\' (aubrey ) employability is thus \'a gift in return from the firm to individuals who are aware of their responsibilities in it\' (aubrey ).	Manually_gathered	0	0	0	0	0	0	1	0
+750	in this way employability can be guaranteed that is to say a level of skills and flexibility allowing each individual to find a new job inside or outside the firm\' (aubrey ) employability is thus \'a gift in return from the firm to individuals who are aware of their responsibilities in it\' (aubrey ).	Manually_gathered	0	0	0	0	0	0	1	0
 751	in this way we can distinguish between (a) links that are highly probable but largely unproductive such as those established between the members of a clique where the connections are compact and within everyone\'s reach but define a self enclosed set (b) very probable but nevertheless productive links in the sense that they open on to the outside world such as the links that popularizers or journalists make (c) links that are very unlikely but also very unproductive such as those established by the misunderstood forerunner or worse the crank or madman who finding no one to follow him cannot operate as a key holder and finally (d) links that are simultaneously unlikely and highly productive which create the status of the innovator or audacious project head.	Manually_gathered	0	0	0	0	0	0	1	0
 752	in this world bearing is inherent in persons because it manifests character which is habit made human (personal bearing reflects the individual).	Manually_gathered	0	1	0	0	0	0	0	0
 753	in this world important persons are therefore federations public communities representatives or delegates.	Manually_gathered	1	0	0	0	0	0	0	0
@@ -946,7 +946,7 @@
 940	much attention was given by the media to a visit by senator barbara boxer to the region when she came out against the dam.	Manually_gathered	0	0	0	0	0	0	0	1
 941	mvn clean test p benchmark pl vavr benchmark	Manually_gathered	0	0	0	1	0	0	0	0
 942	mycat behind a strong technical team whose participants are experienced more than five years including some senior software engineer architect dba etc.	Manually_gathered	0	0	0	1	0	0	0	0
-943	mycat\xe\x\xs target is to smoothly migrate the current stand alone database and applications to cloud side with low cost and to solve the bottleneck problem caused by the rapid growth of data storage and business scale.	Manually_gathered	0	0	0	1	0	1	0	0
+943	mycat target is to smoothly migrate the current stand alone database and applications to cloud side with low cost and to solve the bottleneck problem caused by the rapid growth of data storage and business scale.	Manually_gathered	0	0	0	1	0	1	0	0
 944	names in the media (objects) brand message sender receiver campaign public relation press interview bulletin medium brochure mailing badge audiovisual atmosphere setting.	Manually_gathered	0	0	0	0	0	0	0	1
 945	national science and engineering research council of canada (nserc)	Manually_gathered	0	0	0	1	0	0	0	0
 946	natural relations are those required by the regular functioning of beings of an industrial nature.	Manually_gathered	0	0	0	1	0	0	0	0
@@ -997,7 +997,7 @@
 991	one of the peculiarities of network forms is that unlike what occurs in totalities defined by an inscription of spatial order in a territory (nations districts etc.) of temporal order in a history (lineage) or of legal order in an institution (administrations churches etc.) those who are depreciated lose all visibility and even in a way any existence.	Manually_gathered	0	0	0	0	0	0	1	0
 992	one shifts without transition from the singularity of the i to the generality of man.	Manually_gathered	0	0	0	0	1	0	0	0
 993	one succeeds through the strength of this desire because one loves.	Manually_gathered	0	0	0	0	0	1	0	0
-994	one\'s duties include for example the pleasant demeanor and obliging manner that make human relations smoother  in the consideration for others that makes life in society more agreeable  or in the helpful disinterested behavior characteristic of persons who do not take advantage of the weak.	Manually_gathered	0	1	0	0	0	0	0	0
+994	one's duties include for example the pleasant demeanor and obliging manner that make human relations smoother  in the consideration for others that makes life in society more agreeable  or in the helpful disinterested behavior characteristic of persons who do not take advantage of the weak.	Manually_gathered	0	1	0	0	0	0	0	0
 995	only a demonstration of the judgment of public opinion makes it possible to reduce the tension between the worth one attributes to oneself (ideal) and the worth that is attributed to one by others (real): before undertaking any action at all on a brand image it is important to know the real image (or the absence of a real image) to define with precision the ideal image that it would be desirable to promote.	Manually_gathered	0	0	0	0	0	0	0	1
 996	only habit gives poise  because it makes good manners natural (natural courtesy).	Manually_gathered	0	1	0	0	0	0	0	0
 997	only if one loses sight of the convention that creates bonds between people as individuals a convention that operates via their desire for the same objects and if one forgets the way in which this convention of competition governs its own free play do the terms individual or freedom become susceptible to the semantic slippages that lead to the presentation of the market world as the sole guarantor of people\'s autonomy and freedom.	Manually_gathered	0	0	0	0	0	1	0	0
@@ -1046,7 +1046,7 @@
 1040	poverty leads to worth through a stripping away that leaves the body bare.	Manually_gathered	0	0	0	0	1	0	0	0
 1041	powerful flexible group bygroupby functionality to perform	Manually_gathered	0	0	0	1	0	0	0	0
 1042	powerful helper functions to train any tensorflow graph with support of multiple inputs outputs and optimizers.	Manually_gathered	0	0	0	1	0	0	0	0
-1043	prepared for change and capable of new investments in order to increase their \'ability to respond to a changing world\' (crozier and serieyx ).	Manually_gathered	0	0	0	0	0	0	1	0
+1043	prepared for change and capable of new investments in order to increase their ability to respond to a changing world\' (crozier and serieyx ).	Manually_gathered	0	0	0	0	0	0	1	0
 1044	presentation of the event (test) demonstration press conference inauguration open house (demonstration).	Manually_gathered	0	0	0	0	0	0	0	1
 1045	price (judgment} value (justified reasonable real).	Manually_gathered	0	0	0	0	0	1	0	0
 1046	price which sanctions the test by modifying the distribution of worths takes into account the negotiation between the two subjects involved.	Manually_gathered	0	0	0	0	0	1	0	0
@@ -1088,7 +1088,7 @@
 1082	remember that this is a community project people are contributing in their free time because they like doing so: don\'t take the fun away!	Manually_gathered	1	0	0	0	0	0	0	0
 1083	remote calls are usually slower and less reliable than local calls so it is helpful to distinguish rpc calls from local calls.	Manually_gathered	0	0	0	1	0	0	0	0
 1084	repetition makes your habit stronger and every missed day makes it weaker.	Manually_gathered	0	1	0	0	0	0	0	0
-1085	repository\'s owner explicitly say that this library is not maintained.	Manually_gathered	0	0	0	0	0	1	0	0
+1085	repository's owner explicitly say that this library is not maintained.	Manually_gathered	0	0	0	0	0	1	0	0
 1086	representatives and delegates are more worthy because their mission is to translate and express the aspirations of the masses.	Manually_gathered	1	0	0	0	0	0	0	0
 1087	representatives must be in close liaison with the workers members must remain in constant contact with the organizations... and with their policies.	Manually_gathered	1	0	0	0	0	0	0	0
 1088	representatives of the tourism industry in the clavey area led by an active group of river rafting companies and employees repeatedly argue the dam would lead to a decrease in tourist dollars for the local economy.	Manually_gathered	0	0	0	0	0	1	0	0
@@ -1111,7 +1111,7 @@
 1105	search for `arouter helper` in the android studio plugin market or directly download the `arouter idea plugin` zip installation package listed in the `latest version` above the documentation after installation	Manually_gathered	0	0	0	0	0	1	0	0
 1106	self educational work helps improve the chances of remaining active and voluntary work makes it possible to construct social networks outside work to participate actively in progress towards a better world and to transmit wisdom to others\' (aubrey ).	Manually_gathered	0	0	0	0	0	0	1	0
 1107	selflove is what creates their dignity as human beings.	Manually_gathered	0	0	0	0	0	0	0	1
-1108	sellthreshold =.  confidence threshold for predicting sell (default =.)	Manually_gathered	0	0	0	0	0	1	0	0
+1108	sellthreshold.  confidence threshold for predicting sell	Manually_gathered	0	0	0	0	0	1	0	0
 1109	sentence level vector is used to measure importance among sentences.	Manually_gathered	0	0	0	1	0	0	0	0
 1110	server (collector) : save the performance metrics from scouter agents or telegraf.	Manually_gathered	0	0	0	1	0	0	0	0
 1111	set `java_home` to point to jdk you want to test against (should be compatible with the version you set in gradle.properties(gradle.properties)).	Manually_gathered	0	0	0	1	0	0	0	0
@@ -1127,7 +1127,7 @@
 1121	similarly the more worthy are proud of the less worthy who are parts of themselves: never let a child leave the house without checking quickly to make sure that everything is in order and that one can be proud of him.	Manually_gathered	0	1	0	0	0	0	0	0
 1122	similarly the results of the action taken are apprehended through their traces on this space.	Manually_gathered	0	0	0	1	0	0	0	0
 1123	similarly the rules of etiquette  like the rules of correct behavior or good manners which are the trappings of worth in the domestic world link and separate by opening and closing doors: the good manners cherished by our ancestors used to open many doors.	Manually_gathered	0	1	0	0	0	0	0	0
-1124	similarly using this same convention it can be said that \'z is superior or inferior to x\'.	Manually_gathered	0	0	0	1	0	0	0	0
+1124	similarly using this same convention it can be said that z is superior or inferior to x.	Manually_gathered	0	0	0	1	0	0	0	0
 1125	simple example showing some basic functionality	Manually_gathered	0	0	0	1	0	0	0	0
 1126	simple methods like average and max pooling of the word level elmo representations across sentences works well often outperforming supervised methods on benchmark datasets.	Manually_gathered	0	0	0	1	0	0	0	0
 1127	simple none parent child communication and parent child communication	Manually_gathered	0	0	0	0	0	0	1	0
@@ -1143,7 +1143,7 @@
 1137	so these green arguments in the united states about pristine wilderness imply a view of the relation of humans and nature whereby humans can get great benefit from participating in  experiencing  or struggling against wilderness (or preserving untouched wilderness for others in the present or future to experience).	Manually_gathered	0	0	1	0	0	0	0	0
 1138	so wilderness is valued (by dam opponents) because of its non human qualities but the pristine quality of wilderness is used as a justification (against building the dam) because pristine wilderness has a benefit for humanity.	Manually_gathered	0	0	1	0	0	0	0	0
 1139	so you can freely extend existing commands in a project without needing access to the source code that created them.	Manually_gathered	0	0	0	0	0	0	1	0
-1140	software under copyright law.\r	Manually_gathered	1	0	0	0	0	0	0	0
+1140	software under copyright law.	Manually_gathered	1	0	0	0	0	0	0	0
 1141	some benchmark scripts.	Manually_gathered	0	0	0	1	0	0	0	0
 1142	some commands are supported exclusively by hp printers because other vendors have only implemented a subset of the pjl standard.	Manually_gathered	0	0	0	0	0	1	0	0
 1143	some databases offer apis or frameworks for monitoring changes but there is no standard so each database\'s approach is different and requires a lot of knowledged and specialized code.	Manually_gathered	0	0	0	1	0	0	0	0
@@ -1155,7 +1155,7 @@
 1149	spyder is a powerful scientific environment written in python for python	Manually_gathered	0	0	0	1	0	0	0	0
 1150	ssh audit is a tool for ssh server auditing.	Manually_gathered	0	0	0	1	0	0	0	0
 1151	standard folder layout:	Manually_gathered	0	0	0	1	0	0	0	0
-1152	standard slide featuring a title short description and image like google\'s intros.	Manually_gathered	0	0	0	1	0	0	0	0
+1152	standard slide featuring a title short description and image like google's intros.	Manually_gathered	0	0	0	1	0	0	0	0
 1153	stars and their fans (subjects) personality (a famous) opinion leader spokesperson relay journalist public relations agent.	Manually_gathered	0	0	0	0	0	0	0	1
 1154	stars thus give up not only their private lives but also individual or personal attitudes which are denigrated in this world as extravagances or whims that might displease the public at large.	Manually_gathered	0	0	0	0	0	0	0	1
 1155	state of the art results are achieved on challenging benchmarks.	Manually_gathered	0	0	0	1	0	0	0	0
@@ -1170,14 +1170,14 @@
 1164	subjected to such influences opinion creates fashion it circulates the way a rumor does in a communications network and thus imparts value to the beings of that nature whose fame spreads mutually from one to another: if for example a company succeeds in inviting big names stars the reputation of those big names will carry over to the company itself.	Manually_gathered	0	0	0	0	0	0	0	1
 1165	substitute goods or services loss of use data or profits or business	Manually_gathered	0	0	0	0	0	1	0	0
 1166	such a person takes on the potential strength of each of his audiences and manifests that strength by concentrating it in himself.	Manually_gathered	0	0	0	0	0	0	0	1
-1167	such are in the first instance project heads \'managers\' (in contrast to the old cadres) but also coaches who stimulate support the development of managers and practise \'the art of delivering minds\' (aubrey ).	Manually_gathered	0	0	0	0	0	0	1	0
+1167	such are in the first instance project heads 'managers' (in contrast to the old cadres) but also coaches who stimulate support the development of managers and practise \'the art of delivering minds\' (aubrey ).	Manually_gathered	0	0	0	0	0	0	1	0
 1168	such problems surface in particular when time is introduced as a factor in market relations which are atemporal by nature.	Manually_gathered	0	0	0	0	0	1	0	0
 1169	such relationships were the breeding ground of trade union activity.	Manually_gathered	0	0	0	0	0	0	1	0
 1170	superiors and inferiors (subjects) more worthy beings: father king ancestors parents family gruwnups leader boss.	Manually_gathered	0	1	0	0	0	0	0	0
 1171	support requests for services that do purchase the rights to distribute their content are perfectly fine though.	Manually_gathered	0	0	0	0	0	1	0	0
 1172	support the padding and the subsequent slide down on plans to join so no longer support contentitem margin properties.	Manually_gathered	0	0	0	1	0	0	0	0
-1173	supports the further development of conversations \xe\x\x is to buy the app in the	Manually_gathered	0	0	0	0	0	1	0	0
-1174	switch to hdrhistogram for latency measurement	Manually_gathered	0	0	0	1	0	0	0	0
+1173	supports the further development of conversations is to buy the app in the	Manually_gathered	0	0	0	0	0	1	0	0
+1174	switch to hdr histogram for latency measurement	Manually_gathered	0	0	0	1	0	0	0	0
 1175	take the control of the flow graph by inverting conditional jumps:	Manually_gathered	0	0	0	1	0	0	0	0
 1176	talking about something mentioning it dropping a name and publishing a book are all ways of getting a message across  of releasing spreading a piece of information.	Manually_gathered	0	0	0	0	0	0	0	1
 1177	tcp is useful for applications that require high reliability but are less time critical.	Manually_gathered	0	0	0	1	0	0	0	0
@@ -1765,7 +1765,7 @@
 1757	using shared data for performance and simplicity.	Manually_gathered	0	0	0	1	0	0	0	0
 1758	using the pairwise ordering will not remove any functionality form these implementations but in most	Manually_gathered	0	0	0	1	0	0	0	0
 1759	utterly different things can be assimilated to the term \'project\': opening a new factory closing one carrying out art engineering project putting on a play. each of them is a project and they all involve the same heroism.	Manually_gathered	0	0	0	0	0	0	1	0
-1760	v. akbarzadeh c. gagn\xc\xa m. parizeau m. argany m. a mostafavi probabilistic sensing model for sensor placement optimization based on line of sight coverage accepted in ieee transactions on instrumentation and measurement.	Manually_gathered	0	0	0	1	0	0	0	0
+1760	v. akbarzadeh, c. gagn, m. parizeau, m. argany m. a mostafavi probabilistic sensing model for sensor placement optimization based on line of sight coverage accepted in ieee transactions on instrumentation and measurement.	Manually_gathered	0	0	0	1	0	0	0	0
 1761	vagabondage of the mind (test).	Manually_gathered	0	0	0	0	1	0	0	0
 1762	various forms of these civic justifications are found in both cases and equality or solidarity is often the guiding logic underlying the modes of engagement or organization.	Manually_gathered	1	0	0	0	0	0	0	0
 1763	various independently maintained os specific packages have been made available by the community:	Manually_gathered	1	0	0	0	0	0	0	0
@@ -1843,7 +1843,7 @@
 1835	with anaconda and other scientific python distributions so you don't need	Manually_gathered	0	0	0	1	0	0	0	0
 1836	with cyclops map and other functional operations become lazy and the your chain of commands are only executed when data within the collection is exected for the first time.	Manually_gathered	0	0	0	1	0	0	0	0
 1837	with different name and namespace transactions without spending bitcoin.	Manually_gathered	0	0	0	0	0	1	0	0
-1838	with this nuwa project\xef\xbc\xcyou can also have the repairing power fix your android applicaiton without have to publish a new apk to the appstore.	Manually_gathered	0	0	0	1	0	0	1	0
+1838	with this nuwa project you can also have the repairing power fix your android applicaiton without have to publish a new apk to the appstore.	Manually_gathered	0	0	0	1	0	0	1	0
 1839	with tireless attention it targets the unworthy behaviors of the worthy (for example the bad company they may keep).	Manually_gathered	0	1	0	0	0	0	0	0
 1840	without going into details one can show that in the world of inspiration the relevant beings are for example spirits crazy people artists children.	Manually_gathered	0	0	0	0	1	0	0	0
 1841	without his demanding information or going in search of it others give him the information he needs.	Manually_gathered	0	0	0	0	0	0	1	0
@@ -1858,7 +1858,7 @@
 1850	write a test which shows that the bug was fixed or that the feature works as expected.	Manually_gathered	0	0	0	1	0	0	0	0
 1851	write code and test code and pull request.	Manually_gathered	0	0	0	1	0	0	0	0
 1852	write user test scenarios in plain old python<br>	Manually_gathered	0	0	0	1	0	0	0	0
-1853	x add layer normalization rnn for efficiency ( )	Manually_gathered	0	0	0	1	0	0	0	0
+1853	x add layer normalization rnn for efficiency 	Manually_gathered	0	0	0	1	0	0	0	0
 1854	xxl api is a powerful and easy to use api management platform that provides management documentation mock and test functions for the api.	Manually_gathered	0	0	0	1	0	0	0	0
 1855	yacy also makes it easy to create a customized search portal with a few clicks.	Manually_gathered	0	0	0	0	0	1	0	0
 1856	yet this fact is challenged from the standpoint of the other worlds which deny the reality of collective persons and accredit only the diversity of the individual persons of which they are composed.	Manually_gathered	1	0	0	0	0	0	0	0
@@ -1880,38 +1880,38 @@
 1872	your data are still on s servers so you pay $. for those two gigabytes but not a single cent will be charged for any transfer.	Manually_gathered	0	0	0	0	0	1	0	0
 1873	your preferred price and performance.	Manually_gathered	0	0	0	0	0	1	0	0
 1874	yourself or pay someone to do it if you think it\'s worth the effort.	Manually_gathered	0	0	0	0	0	1	0	0
-1875	| Available Models | Detailed model descriptions accuracy figures and benchmarks.	Manually_gathered	0	0	0	1	0	0	0	0
-1876	| `misc.professions` | calling jobs by the right name |	Manually_gathered	0	0	0	1	0	0	0	0
-1877	| integrity checks and tests | \xe\xc\x | \xe\xc\x | \xe\xc\x | \xe\xc\x |	Manually_gathered	0	0	0	1	0	0	0	0
-1878	| | best time to buy and sell stock | array dynamic programmin |	Manually_gathered	0	0	0	0	0	1	0	0
-1879	() To measure the benefits of the diversification algorithms which use automatically mined hierarchical intents it is important to use hierarchical measures instead of existing measures.	Semantic Scholar	0	0	0	0	0	0	0	0
-1880	() We introduce a class of reduced summaries.	Semantic Scholar	0	0	0	0	0	0	0	0
-1881	() whereas those at the high fully connected layers are close to or lower than.	Semantic Scholar	0	0	0	0	0	0	0	0
-1882	) KITTI (Geiger et al.	Semantic Scholar	0	0	0	0	0	0	0	0
-1883	. a policy focus for the asia pacific region that emphasizes environmentally sustainable economic progress to foster low carbon socially inclusive development unescap website.	pdf	0	0	1	0	0	0	0	0
-1884	. a system of economic activities related to the production distribution and consumption of goods and services that result in improved human well being over the long term while not exposing future generations to significant environmental risks or ecological scarcities.	pdf	0	0	1	0	0	0	0	0
-1885	. allow all countries to give their citizens access to the six key instrumental freedoms.	pdf	0	0	1	0	0	0	0	0
-1886	. an economy that results in improved human well being and reduced inequalities while not exposing future generations to significant environmental risks and ecological scarcities.	pdf	0	0	1	0	0	0	0	0
-1887	. an emerging concept that recognises that environmental protection is a driver of global and national economic development.	pdf	0	0	1	0	0	0	0	0
-1888	. billion still do not have access to electricity. billion do not have access to sanitation and million lack access to clean drinking water.	pdf	0	0	1	0	0	0	0	0
-1889	. creates the necessary aligned framework of institutions at all levels with clearly defined roles and mandates to enable them to actively advance an equitable green economy.	pdf	0	0	1	0	0	0	0	0
-1890	. defined as environmentally sustainable progress that fosters low carbon socially inclusive development government of cambodia.	pdf	0	0	1	0	0	0	0	0
-1891	. establish a common set of rules for the global economic system that emphasises not short term monetary benefits but long term sustainable well being.	pdf	0	0	1	0	0	0	0	0
-1892	. establish a set of rules on technology transfer and development which would enable technology to be either developed or adapted locally.	pdf	0	0	1	0	0	0	0	0
-1893	. establishes clear objectives for the necessary means for action to be mobilised technology capacity finance and defines the approach nature and profile of these means e.g.	pdf	0	0	1	0	0	0	0	0
-1894	. foster low carbon socially inclusive development.	pdf	0	0	1	0	0	0	0	0
-1895	. fostering economic growth and development while ensuring that natural assets continue to provide the resources and environmental services on which our well being relies oecd.	pdf	0	0	1	0	0	0	0	0
-1896	. green economy can be seen as a lens for focusing on and seizing opportunities to advance economic and environmental goals simultaneously.	pdf	0	0	1	0	0	0	0	0
-1897	. green economy is a resilient economy that provides a better quality of life for all within the ecological limits of the planet.	pdf	0	0	1	0	0	0	0	0
-1898	. green economy the term green economy was first coined in a pioneering report for the government of the united kingdom by a group of leading environmental economists entitled blueprint for a green economy pearce markandya and barbier.	pdf	0	0	1	0	0	0	0	0
-1899	. green growth the concept of green growth has its origins in the asia and pacific region.	pdf	0	0	1	0	0	0	0	0
-1900	. is transparent and engages all involved and affected actors with powerful actors having clearly defined responsibilities and forms of accountability while making sure other stakeholders are empowered to act both as beneficiaries of and contributors to the green economy.	pdf	0	0	1	0	0	0	0	0
-1901	. low carbon development the concept of low carbon development has its roots in the unfccc adopted in rio in. in the context of this convention low carbon development is now generally expressed using the term low emission development strategies leds also known as low carbon development strategies or low carbon growth plans.	pdf	0	0	1	0	0	0	0	0
-1902	. means job creation or gdp growth compatible with or driven by actions to reduce greenhouse gases.	pdf	0	0	1	0	0	0	0	0
-1903	. measure country progress by establishing a new set of accounts that track well being and not just economic performance.	pdf	0	0	1	0	0	0	0	0
-1904	. related concepts green economy green growth and low carbon development whilst the concept of green economy has only recently gained significant international attention green economy policies have been discussed and analysed for some decades by economists and academics particularly in the fields of environmental and ecological economics.	pdf	0	0	1	0	0	0	0	0
-1905	. the green economy involves largely new economic activities and must provide an important entry point for broad based black economic empowerment addressing the needs of women and youth entrepreneurs and offering opportunities for enterprises in the social economy government of south africa.	pdf	0	0	1	0	0	0	0	0
-1906	. the green economy is not a state but a process of transformation and a constant dynamic progression.	pdf	0	0	1	0	0	0	0	0
+1875	Available Models  Detailed model descriptions accuracy figures and benchmarks.	Manually_gathered	0	0	0	1	0	0	0	0
+1876	`misc.professions`  calling jobs by the right name |	Manually_gathered	0	0	0	1	0	0	0	0
+1877	integrity checks and tests|	Manually_gathered	0	0	0	1	0	0	0	0
+1878	best time to buy and sell stock | array dynamic programmin |	Manually_gathered	0	0	0	0	0	1	0	0
+1879	To measure the benefits of the diversification algorithms which use automatically mined hierarchical intents it is important to use hierarchical measures instead of existing measures.	Semantic Scholar	0	0	0	0	0	0	0	0
+1880	We introduce a class of reduced summaries.	Semantic Scholar	0	0	0	0	0	0	0	0
+1881	whereas those at the high fully connected layers are close to or lower than.	Semantic Scholar	0	0	0	0	0	0	0	0
+1882	KITTI (Geiger et al.	Semantic Scholar	0	0	0	0	0	0	0	0
+1883	a policy focus for the asia pacific region that emphasizes environmentally sustainable economic progress to foster low carbon socially inclusive development unescap website.	pdf	0	0	1	0	0	0	0	0
+1884	a system of economic activities related to the production distribution and consumption of goods and services that result in improved human well being over the long term while not exposing future generations to significant environmental risks or ecological scarcities.	pdf	0	0	1	0	0	0	0	0
+1885	allow all countries to give their citizens access to the six key instrumental freedoms.	pdf	0	0	1	0	0	0	0	0
+1886	an economy that results in improved human well being and reduced inequalities while not exposing future generations to significant environmental risks and ecological scarcities.	pdf	0	0	1	0	0	0	0	0
+1887	an emerging concept that recognises that environmental protection is a driver of global and national economic development.	pdf	0	0	1	0	0	0	0	0
+1888	billion still do not have access to electricity. billion do not have access to sanitation and million lack access to clean drinking water.	pdf	0	0	1	0	0	0	0	0
+1889	creates the necessary aligned framework of institutions at all levels with clearly defined roles and mandates to enable them to actively advance an equitable green economy.	pdf	0	0	1	0	0	0	0	0
+1890	defined as environmentally sustainable progress that fosters low carbon socially inclusive development government of cambodia.	pdf	0	0	1	0	0	0	0	0
+1891	establish a common set of rules for the global economic system that emphasises not short term monetary benefits but long term sustainable well being.	pdf	0	0	1	0	0	0	0	0
+1892	establish a set of rules on technology transfer and development which would enable technology to be either developed or adapted locally.	pdf	0	0	1	0	0	0	0	0
+1893	establishes clear objectives for the necessary means for action to be mobilised technology capacity finance and defines the approach nature and profile of these means e.g.	pdf	0	0	1	0	0	0	0	0
+1894	foster low carbon socially inclusive development.	pdf	0	0	1	0	0	0	0	0
+1895	fostering economic growth and development while ensuring that natural assets continue to provide the resources and environmental services on which our well being relies oecd.	pdf	0	0	1	0	0	0	0	0
+1896	green economy can be seen as a lens for focusing on and seizing opportunities to advance economic and environmental goals simultaneously.	pdf	0	0	1	0	0	0	0	0
+1897	green economy is a resilient economy that provides a better quality of life for all within the ecological limits of the planet.	pdf	0	0	1	0	0	0	0	0
+1898	green economy the term green economy was first coined in a pioneering report for the government of the united kingdom by a group of leading environmental economists entitled blueprint for a green economy pearce markandya and barbier.	pdf	0	0	1	0	0	0	0	0
+1899	green growth the concept of green growth has its origins in the asia and pacific region.	pdf	0	0	1	0	0	0	0	0
+1900	is transparent and engages all involved and affected actors with powerful actors having clearly defined responsibilities and forms of accountability while making sure other stakeholders are empowered to act both as beneficiaries of and contributors to the green economy.	pdf	0	0	1	0	0	0	0	0
+1901	low carbon development the concept of low carbon development has its roots in the unfccc adopted in rio in. in the context of this convention low carbon development is now generally expressed using the term low emission development strategies leds also known as low carbon development strategies or low carbon growth plans.	pdf	0	0	1	0	0	0	0	0
+1902	means job creation or gdp growth compatible with or driven by actions to reduce greenhouse gases.	pdf	0	0	1	0	0	0	0	0
+1903	measure country progress by establishing a new set of accounts that track well being and not just economic performance.	pdf	0	0	1	0	0	0	0	0
+1904	related concepts green economy green growth and low carbon development whilst the concept of green economy has only recently gained significant international attention green economy policies have been discussed and analysed for some decades by economists and academics particularly in the fields of environmental and ecological economics.	pdf	0	0	1	0	0	0	0	0
+1905	the green economy involves largely new economic activities and must provide an important entry point for broad based black economic empowerment addressing the needs of women and youth entrepreneurs and offering opportunities for enterprises in the social economy government of south africa.	pdf	0	0	1	0	0	0	0	0
+1906	the green economy is not a state but a process of transformation and a constant dynamic progression.	pdf	0	0	1	0	0	0	0	0
 1907	A Handy Guide to Making Your Home Energy EfficientA famous frog once crooned: It's not easy being green  but I beg to differ.	HuffPost_News	0	0	1	0	0	0	0	0
 1908	A change was made in the HMI paradigm moving from a force sensing to a vision based approach while maintaining a natural user interaction and adding complementary safety features like correct gripping enforcement.	Semantic Scholar	0	0	0	0	0	0	0	0
 1909	A deep learning framework designed for both efficiency and flexibility.	efficiency	0	0	0	1	0	0	0	0
@@ -1940,7 +1940,7 @@
 1932	Although some common mechanisms (e.g. a complaint driven or manual checking) exist they limit the response time to detect miscategorized apps and still open the challenge on categorization.	Semantic Scholar	0	0	0	0	0	0	0	0
 1933	An evaluation of our method using real world datasets reveals that it consistently outperforms the state of the art in terms of precision recall and robustness against faulty workers and data sparsity.	Semantic Scholar	0	0	0	0	1	0	0	0
 1934	Analysis in a real world scenario shows that it is possible to automatically learn intuitive visual grasp structures that are consistent with expert designed grasp taxonomies.	Semantic Scholar	0	0	0	0	1	0	0	0
-1935	And () data analysis: in practical data it reveals the community structure in the input hidden and output layers which serves as a clue for discovering knowledge from a trained neural network.	Semantic Scholar	0	0	0	0	0	0	0	0
+1935	And data analysis: in practical data it reveals the community structure in the input hidden and output layers which serves as a clue for discovering knowledge from a trained neural network.	Semantic Scholar	0	0	0	0	0	0	0	0
 1936	Anxiety Provoking Situations And How To DealAndy Puddicombe is a former Buddhist monk and the founder of Headspace a project to make meditation accessible to busy people	HuffPost_News	1	0	0	0	0	0	0	0
 1937	As EPA Launches War on Emissions U.S. Plays Catch Up With Europe on RenewablesThe United States is behind the curve when it comes to the percentage of renewable energy resources on its national grid. And with domestic oil and natural gas production increasing low carbon solutions may fall even further by the wayside.	HuffPost_News	0	0	1	0	0	0	0	0
 1938	As a consequence estimating the hand pose and at the same time having the capability to provide haptic feedback in a wearable way may benefit areas such as rehabilitation human–robot interaction gaming and many more.	Semantic Scholar	0	0	0	0	1	0	0	0
@@ -3167,6 +3167,6 @@
 3159	without knowledge from future frames.	Semantic Scholar	0	0	0	0	0	0	0	0
 3160	working towards a balanced and inclusive green economy.	pdf	0	0	1	0	0	0	0	0
 3161	world bank growth that is efficient in its use of natural resources clean in that it minimizes pollution and environmental impacts and resilient in that it accounts for natural hazards and the role of environmental management and natural capital in preventing physical disasters.	pdf	0	0	1	0	0	0	0	0
-3162	© Elsevier Inc. All rights reserved.	Semantic Scholar	0	0	0	0	0	0	0	0
+3162	Elsevier Inc. All rights reserved.	Semantic Scholar	0	0	0	0	0	0	0	0
 3163	– Jan. ) was proposed to resolve this problem.	Semantic Scholar	0	0	0	0	0	0	0	0
-3164	📖 Make the Web Faster | Google Developers.	efficiency	0	0	0	1	0	0	0	0
+3164	Make the Web Faster, Google Developers.	efficiency	0	0	0	1	0	0	0	0
