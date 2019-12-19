@@ -1,0 +1,6 @@
+text	provenance	civic	domestic	green	industrial	inspired	market	project	renown
+We use hivemall as the machine learning library which provides us with lots of useful functions.	github_ai	0	0	0	1	0	0	0	0
+Compressor.tool to compress image by reducing the number of colors using k-means algorithm.:ledger: image compressor uses the k-means algorithm for image compression by reducing the number of colors that occur in an image to only those that are most common in that image.	github_ai	0	0	0	0	0	0	0	0
+First, let's get the python code for inception v1 and put it on ``pythonpath``.	github_ai	0	0	0	1	0	0	0	0
+See `notebooks process_midi_for_glove.ipynb`(notebooks process_midi_for_glove.ipynb) to see how midi data was prepaired before being processed by glove.your own embeddings.midi place a folder of midi files you would like to use create the embeddings inside of `data `.	github_ai	0	0	0	0	0	0	0	0
+A logistic regression model is trained on these features and the detector is built.demonstration here, a simple demonstration is provided of the commands issued to run the full experiment with mnist, using the fgsm attack.	github_ai	0	0	0	0	0	0	0	0
