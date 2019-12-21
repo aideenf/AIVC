@@ -1,0 +1,5 @@
+text	provenance	civic	domestic	green	industrial	inspired	market	project	renown
+In particular, the aerial manipulator can successfully perform navigation and interaction phases, while keeping motion within prescribed bounds and avoiding collisions with external obstacles.	s2_ai	0	0	0	0	0	0	0	0
+We then demonstrate performance on a task in which a slipping object must be caught.	s2_ai	0	0	0	1	0	0	0	0
+Here, we demonstrate our method with up to 900 hybrid dynamic obstacles and show that it outperforms the traditional Gaussian APF method by up to 60% in the holonomic case and up to 20% in the unicycle case.	s2_ai	0	0	0	1	0	0	0	0
+These robots may thus have the capacities of flight, contact locomotion, and manipulation, and benefit from technologies and methods developed for Whole-Body Control  and Aerial Manipulation.	s2_ai	0	0	0	0	0	0	0	0
