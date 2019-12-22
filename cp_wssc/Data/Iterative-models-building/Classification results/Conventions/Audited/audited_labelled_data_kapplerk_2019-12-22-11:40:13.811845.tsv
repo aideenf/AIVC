@@ -1,0 +1,24 @@
+text	provenance	civic	domestic	green	industrial	inspired	market	project	renown
+The muscle-synergy hypothesis is a widely used method for describing simple motion patterns and how the central nervous system deals with the complexity of controlling a large set of muscles in parallel.	s2_ai	0	0	0	0	0	0	0	0
+From the CPT experiment results using the robot, we found that the localization success rate improved by changing the behavior in a time-variant manner.	s2_ai	0	0	0	1	0	0	0	0
+An analytic formulation of the optimal precurvature function is derived, which achieves a desired tip orientation range while maximizing stability and respecting bending strain limits.	s2_ai	0	0	0	1	0	0	0	0
+The latter relies on the vehicles exploiting the inherent rigid structure information to infer additional constraints between the vehicles’ poses allowing us to formulate the pose estimation problem as an optimization problem on the Lie group $\mathbf {SE(3)}$.	s2_ai	0	0	0	1	0	0	0	0
+In this way, the map can describe objects of different laser permeabilities, from completely opaque to completely transparent.	s2_ai	0	0	0	0	0	0	0	0
+In the case of nonholonomic systems, such as mobile robots, each robot’s pose then is regulated to the known consensus pose by a novel smooth and continuous control law.	s2_ai	0	0	0	0	1	0	0	0
+Analyzing the polarimetric properties of reflected light is a potential source of shape information.	s2_ai	0	0	0	0	0	0	0	0
+In contrast, bit-vector SMT solvers usually solve bit-vector problems by (ultimately) bit-blasting, that is, mapping the resulting operations to conjunctive normal form clauses, and using SAT technology to solve them.	s2_ai	0	0	0	1	0	0	0	0
+In order to enable robots to share their workspace with humans and physically interact with them, fast and reliable handling of possible collisions on the entire robot structure is needed, along with control strategies for safe robot reaction.	s2_ai	0	1	0	0	0	0	0	0
+One major goal of vision is to infer physical models of objects, surfaces, and their layout from sensors.	s2_ai	0	0	0	0	0	0	0	0
+(in: Matthes and Schubert (eds.)	s2_ai	0	0	0	0	0	0	0	0
+We propose an efficient approach for building compact, edge-preserving, view-centric triangle meshes from either dense or sparse depth data, with a focus on modeling architecture in large-scale urban scenes.	s2_ai	0	0	0	1	0	0	0	0
+The results show that in comparison to both the traditional tensor-based methods and the vector-based regression methods, our proposed solution achieves better performance for matrix data classifications.	s2_ai	0	0	0	1	1	0	0	0
+TPDM is structured internally in an Encrypt-then-Sign fashion, using partially homomorphic encryption and identity-based signature.	s2_ai	0	0	0	1	0	0	0	0
+hand/object relative pose and force application, using hand models with an increasing number of synergies, ordered according to a widely used postural basis.	s2_ai	0	0	0	0	0	0	0	0
+From what I understand, an RNN or even an LSTM would not be able to make that decision, because their “memories” do not include outside information.	reddit_ai	0	1	0	0	0	0	0	0
+There is tons of evidence that the current AI architecture isn't 'that smart' nor that sustainable.	reddit_ai	0	0	1	1	0	0	0	0
+A modern Shrdlu with physics simulations would be good to figure out next moves, but before you get that far, you need to be able to map the environment actively and identify objects in it.	reddit_ai	0	0	1	1	0	0	0	0
+In order to preserve document quality, we used only pages which have been curated filtered by humans—specifically, we used outbound links from Reddit which received at least 3 karma.	reddit_ai	0	1	0	1	0	0	0	0
+AI in the business world is nothing more than a tool used in a range of professions for selectively applying different statistical models in order to produce an answer (typically in a form that merely aids a human in drawing a conclusion) that is better than a random guess.	reddit_ai	0	1	0	0	0	0	0	0
+So maybe a negative response from the public could slow this down? Google glass was a good idea that got hit with the 'hate on it' meme before that meme got popular.	reddit_ai	0	1	0	0	0	0	0	1
+Pretty fucking cool, ( is also very concise and clear, love it Thats amazing.	reddit_ai	0	0	0	0	0	0	0	0
+That's exactly my fears when it comes to AI.	reddit_ai	0	1	0	0	0	0	0	0
