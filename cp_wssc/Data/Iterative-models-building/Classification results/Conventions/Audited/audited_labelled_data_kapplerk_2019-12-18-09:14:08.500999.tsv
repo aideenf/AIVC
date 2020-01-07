@@ -1,8 +1,8 @@
-civic	convention	domestic	green	industrial	inspired	market	new	old	project	provenance	renown	text
-0.0		0.0	0.0	0.0	0.0	1.0			0.0	s2_ai	0.0	The buying processes of the business customers involve series of different marketing campaigns providing multifaceted information about the products or services.
-0.0		0.0	0.0	0.0	0.0	1.0			0.0	s2_ai	0.0	The buying processes of the business customers involve series of different marketing campaigns providing multifaceted information about the products or services.
-0.0		0.0	0.0	0.0	0.0	1.0			0.0	s2_ai	0.0	Online display advertising has becomes a billion-dollar industry, and it keeps growing.
-0.0		0.0	1.0	0.0	0.0	1.0			0.0	s2_ai	0.0	The model has been developed using an agent-based modeling approach which delivers results based on socio-demographic factors of a population and customers’ relative preferences of product attributes price, environmental friendliness and service-orientation.
-0.0		0.0	0.0	0.0	0.0	1.0			0.0	s2_ai	0.0	Online display advertising has becomes a billion-dollar industry, and it keeps growing.
-0.0		0.0	0.0	0.0	0.0	1.0			0.0	s2_ai	0.0	Recently, online shopping marketplaces usually hold some price promotion campaigns to attract customers and increase their purchase intention.
-0.0		0.0	0.0	0.0	0.0	1.0			0.0	s2_ai	0.0	Recently, online shopping marketplaces usually hold some price promotion campaigns to attract customers and increase their purchase intention.
+	text	provenance	civic	domestic	green	industrial	inspired	market	project	renown
+0	The buying processes of the business customers involve series of different marketing campaigns providing multifaceted information about the products or services.	s2_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+1	The buying processes of the business customers involve series of different marketing campaigns providing multifaceted information about the products or services.	s2_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+2	Online display advertising has becomes a billion-dollar industry, and it keeps growing.	s2_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+3	The model has been developed using an agent-based modeling approach which delivers results based on socio-demographic factors of a population and customers’ relative preferences of product attributes price, environmental friendliness and service-orientation.	s2_ai	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+4	Online display advertising has becomes a billion-dollar industry, and it keeps growing.	s2_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+5	Recently, online shopping marketplaces usually hold some price promotion campaigns to attract customers and increase their purchase intention.	s2_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+6	Recently, online shopping marketplaces usually hold some price promotion campaigns to attract customers and increase their purchase intention.	s2_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
