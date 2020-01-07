@@ -1,6 +1,6 @@
-civic	convention	domestic	green	industrial	inspired	market	new	old	project	provenance	renown	text
-0.0		0.0	0.0	0.0	0.0	0.0			0.0	github_ai	0.0	Make sure you have python 3.7.0 and opencv 3.4.2 installed.
-0.0		0.0	0.0	0.0	0.0	1.0			0.0	github_ai	0.0	Suppose you are selling your house and you want to know what a good market price would be.
-0.0		0.0	0.0	0.0	0.0	1.0			0.0	github_ai	0.0	The ratio of users not buying a card to buying category 1 card to category 2 card to category 3 card was 30 : 3.5 : 2.8 : 2.7.
-0.0		0.0	0.0	0.0	0.0	0.0			0.0	github_ai	0.0	(go to your twitter reddit developer console, create application and get keys.) 3.
-0.0		0.0	0.0	0.0	0.0	1.0			0.0	github_ai	0.0	You want to predict how many of these items will sell over the next 3 months.
+	text	provenance	civic	domestic	green	industrial	inspired	market	project	renown
+0	Make sure you have python 3.7.0 and opencv 3.4.2 installed.	github_ai	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+1	Suppose you are selling your house and you want to know what a good market price would be.	github_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+2	The ratio of users not buying a card to buying category 1 card to category 2 card to category 3 card was 30 : 3.5 : 2.8 : 2.7.	github_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+3	(go to your twitter reddit developer console, create application and get keys.) 3.	github_ai	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+4	You want to predict how many of these items will sell over the next 3 months.	github_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
