@@ -1,18 +1,18 @@
-	text	provenance	civic	domestic	green	industrial	inspired	market	project	renown
-0	Also, massive thanks to emi tanaka for developing the kunoichi xaringan theme (yihui xie), of which the source can be found here.	github_ai	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
-1	2nd annual international symposium on information management and big data.	github_ai	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-2	The image below shows the costmap (in blue and purple), and the global occupancy grid (in black and gray).	github_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
-3	!wireframe.the crop yield losses, on a field and during post-harvest period, caused by pests, diseases and weeds are of paramount importance.	github_ai	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
-4	Funding support from the national science foundation is gratefully acknowledged.	github_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
-5	Reference papers guolin ke, qi meng, thomas finley, taifeng wang, wei chen, weidong ma, qiwei ye, tie-yan liu.	github_ai	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
-6	 bot: do you like hats?.it works an untrained instance of chatterbot starts off with no knowledge of how to communicate.	github_ai	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
-7	They were asked to perform barbell lifts correctly and incorrectly in 5 different ways.	github_ai	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
-8	Both characters are attracted to each other instead of actively searching for minerals.	github_ai	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
-9	"After ""etz up"" is finished you can start the image search web demo."	github_ai	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
-10	Contributions are always welcome! for bug reports or requests please submit an issue.	github_ai	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
-11	If data is small: you can try more folds like 10 or so.when i transform train set i see 'train set was detected'.	github_ai	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
-12	"The named entity type looks like ""position_namedentitytype""."	github_ai	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-13	Please follow siraj's tutorial video to get started.	github_ai	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
-14	"Commit your changes (`git commitam ""awesome feature""`) 4."	github_ai	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
-15	If you think something can be improved, please submit a pr! '.	github_ai	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0
-16	There four different commands, which should be executed sequentially: `.	github_ai	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+text	provenance	civic	domestic	green	industrial	inspired	market	project	renown
+Also, massive thanks to emi tanaka for developing the kunoichi xaringan theme (yihui xie), of which the source can be found here.	github_ai	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+2nd annual international symposium on information management and big data.	github_ai	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+The image below shows the costmap (in blue and purple), and the global occupancy grid (in black and gray).	github_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+the crop yield losses, on a field and during post-harvest period, caused by pests, diseases and weeds are of paramount importance.	github_ai	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Funding support from the national science foundation is gratefully acknowledged.	github_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Reference papers guolin ke, qi meng, thomas finley, taifeng wang, wei chen, weidong ma, qiwei ye, tie-yan liu.	github_ai	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+bot: do you like hats?.it works an untrained instance of chatterbot starts off with no knowledge of how to communicate.	github_ai	0.0	1.0	0.0	0.0	1.0	0.0	0.0	0.0
+They were asked to perform barbell lifts correctly and incorrectly in 5 different ways.	github_ai	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+Both characters are attracted to each other instead of actively searching for minerals.	github_ai	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+After "etz up" is finished you can start the image search web demo.	github_ai	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Contributions are always welcome! for bug reports or requests please submit an issue.	github_ai	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+If data is small: you can try more folds like 10 or so.when i transform train set i see 'train set was detected'.	github_ai	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+The named entity type looks like "position_namedentitytype".	github_ai	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Please follow siraj's tutorial video to get started.	github_ai	0.0	1.0	0.0	1.0	0.0	0.0	0.0	0.0
+Commit your changes (`git commitam ""awesome feature`)	github_ai	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+If you think something can be improved, please submit a pr!.	github_ai	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0
+There four different commands, which should be executed sequentially:.	github_ai	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
