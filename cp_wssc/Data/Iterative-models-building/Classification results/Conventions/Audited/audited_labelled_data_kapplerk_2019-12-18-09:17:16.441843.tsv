@@ -1,8 +1,8 @@
-	text	provenance	civic	domestic	green	industrial	inspired	market	project	renown
-0	The design of the prototype is discussed and the effect of two factors on its control is analyzed.	s2_ai	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-1	The consensus and complementarity principles play key roles in multi-view modeling.	s2_ai	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
-2	Google over the last 10 quarters had over 20 growth and last reported quarter 26.	reddit_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
-3	R_BODY I'm working on a project to reduce species loss in third-world-countries by illicit trade of animals for wildlife tourism (see link for details of the problem).	reddit_ai	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
-4	Pollution corruption slavery.	reddit_ai	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
-5	US economy is going down.	reddit_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
-6	free downloadable Excel sheet with over 170 open datasets divided into 10 subjects (sports, agriculture, legal, social media, etc.).	reddit_ai	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+text	provenance	civic	domestic	green	industrial	inspired	market	project	renown
+The design of the prototype is discussed and the effect of two factors on its control is analyzed.	s2_ai	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+The consensus and complementarity principles play key roles in multi-view modeling.	s2_ai	0.0	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+Google over the last 10 quarters had over 20 growth and last reported quarter 26.	reddit_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+I'm working on a project to reduce species loss in third-world-countries by illicit trade of animals for wildlife tourism (see link for details of the problem).	reddit_ai	0.0	0.0	1.0	0.0	0.0	1.0	0.0	0.0
+Pollution corruption slavery.	reddit_ai	1.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+US economy is going down.	reddit_ai	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+free downloadable Excel sheet with over 170 open datasets divided into 10 subjects (sports, agriculture, legal, social media, etc.).	reddit_ai	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
